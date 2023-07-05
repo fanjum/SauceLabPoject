@@ -1,0 +1,1362 @@
+2023-06-23 16:33:05,430 - Login - INFO - Start: started set user name method
+2023-06-23 16:33:05,445 - Login - INFO - End: set user name method
+2023-06-26 14:09:33,987 - Login - INFO - Start: started set user name method
+2023-06-26 14:09:34,099 - Login - INFO - End: set user name method
+2023-06-26 14:09:34,099 - Login - INFO - Start: set password method
+2023-06-26 14:09:34,186 - Login - INFO - End: set password method
+2023-06-26 14:09:34,186 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:09:34,278 - Login - INFO - End: click denticon login button method
+2023-06-26 14:14:34,275 - Login - INFO - Start: started set user name method
+2023-06-26 14:14:34,275 - Login - INFO - Start: started set user name method
+2023-06-26 14:14:34,385 - Login - INFO - End: set user name method
+2023-06-26 14:14:34,385 - Login - INFO - End: set user name method
+2023-06-26 14:15:43,786 - Login - INFO - Start: started set user name method
+2023-06-26 14:15:43,786 - Login - INFO - Start: started set user name method
+2023-06-26 14:15:43,907 - Login - INFO - End: set user name method
+2023-06-26 14:15:43,907 - Login - INFO - End: set user name method
+2023-06-26 14:15:43,909 - Login - INFO - Start: set password method
+2023-06-26 14:15:43,909 - Login - INFO - Start: set password method
+2023-06-26 14:15:44,005 - Login - INFO - End: set password method
+2023-06-26 14:15:44,005 - Login - INFO - End: set password method
+2023-06-26 14:15:44,008 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:15:44,008 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:15:44,101 - Login - INFO - End: click denticon login button method
+2023-06-26 14:15:44,101 - Login - INFO - End: click denticon login button method
+2023-06-26 14:22:03,899 - Login - INFO - Start: started set user name method
+2023-06-26 14:22:03,899 - Login - INFO - Start: started set user name method
+2023-06-26 14:22:04,013 - Login - INFO - End: set user name method
+2023-06-26 14:22:04,013 - Login - INFO - End: set user name method
+2023-06-26 14:22:04,016 - Login - INFO - Start: set password method
+2023-06-26 14:22:04,016 - Login - INFO - Start: set password method
+2023-06-26 14:22:04,115 - Login - INFO - End: set password method
+2023-06-26 14:22:04,115 - Login - INFO - End: set password method
+2023-06-26 14:22:04,117 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:22:04,117 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:22:04,212 - Login - INFO - End: click denticon login button method
+2023-06-26 14:22:04,212 - Login - INFO - End: click denticon login button method
+2023-06-26 14:22:04,216 - Login - INFO - Start: started set user name method
+2023-06-26 14:22:04,216 - Login - INFO - Start: started set user name method
+2023-06-26 14:22:18,698 - Login - ERROR - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+2023-06-26 14:22:18,698 - Login - ERROR - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+2023-06-26 14:22:18,698 - Login - INFO - End: set user name method
+2023-06-26 14:22:18,698 - Login - INFO - End: set user name method
+2023-06-26 14:22:18,714 - Login - INFO - Start: started set user name method
+2023-06-26 14:22:18,714 - Login - INFO - Start: started set user name method
+2023-06-26 14:22:18,716 - Login - ERROR - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+2023-06-26 14:22:18,716 - Login - ERROR - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+2023-06-26 14:22:18,716 - Login - INFO - End: set user name method
+2023-06-26 14:22:18,716 - Login - INFO - End: set user name method
+2023-06-26 14:28:17,900 - Login - INFO - Start: started set user name method
+2023-06-26 14:28:17,900 - Login - INFO - Start: started set user name method
+2023-06-26 14:28:18,011 - Login - INFO - End: set user name method
+2023-06-26 14:28:18,011 - Login - INFO - End: set user name method
+2023-06-26 14:28:18,015 - Login - INFO - Start: set password method
+2023-06-26 14:28:18,015 - Login - INFO - Start: set password method
+2023-06-26 14:28:18,109 - Login - INFO - End: set password method
+2023-06-26 14:28:18,109 - Login - INFO - End: set password method
+2023-06-26 14:28:18,110 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:28:18,110 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:28:18,202 - Login - INFO - End: click denticon login button method
+2023-06-26 14:28:18,202 - Login - INFO - End: click denticon login button method
+2023-06-26 14:28:22,599 - Login - INFO - Start: started set user name method
+2023-06-26 14:28:22,599 - Login - INFO - Start: started set user name method
+2023-06-26 14:28:22,738 - Login - INFO - End: set user name method
+2023-06-26 14:28:22,738 - Login - INFO - End: set user name method
+2023-06-26 14:28:22,741 - Login - INFO - Start: set password method
+2023-06-26 14:28:22,741 - Login - INFO - Start: set password method
+2023-06-26 14:28:22,853 - Login - INFO - End: set password method
+2023-06-26 14:28:22,853 - Login - INFO - End: set password method
+2023-06-26 14:28:22,855 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:28:22,855 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:28:22,934 - Login - INFO - End: click denticon login button method
+2023-06-26 14:28:22,934 - Login - INFO - End: click denticon login button method
+2023-06-26 14:28:27,258 - Login - INFO - Start: started set user name method
+2023-06-26 14:28:27,258 - Login - INFO - Start: started set user name method
+2023-06-26 14:28:27,387 - Login - INFO - End: set user name method
+2023-06-26 14:28:27,387 - Login - INFO - End: set user name method
+2023-06-26 14:28:27,389 - Login - INFO - Start: set password method
+2023-06-26 14:28:27,389 - Login - INFO - Start: set password method
+2023-06-26 14:28:27,466 - Login - INFO - End: set password method
+2023-06-26 14:28:27,466 - Login - INFO - End: set password method
+2023-06-26 14:28:27,467 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:28:27,467 - Login - INFO - Start: click denticon login button method
+2023-06-26 14:28:27,519 - Login - INFO - End: click denticon login button method
+2023-06-26 14:28:27,519 - Login - INFO - End: click denticon login button method
+2023-06-26 15:17:29,101 - Login - INFO - Start: started set user name method
+2023-06-26 15:17:29,101 - Login - INFO - Start: started set user name method
+2023-06-26 15:17:29,234 - Login - INFO - End: set user name method
+2023-06-26 15:17:29,234 - Login - INFO - End: set user name method
+2023-06-26 15:17:29,236 - Login - INFO - Start: set password method
+2023-06-26 15:17:29,236 - Login - INFO - Start: set password method
+2023-06-26 15:17:29,341 - Login - INFO - End: set password method
+2023-06-26 15:17:29,341 - Login - INFO - End: set password method
+2023-06-26 15:17:29,343 - Login - INFO - Start: click denticon login button method
+2023-06-26 15:17:29,343 - Login - INFO - Start: click denticon login button method
+2023-06-26 15:17:29,439 - Login - INFO - End: click denticon login button method
+2023-06-26 15:17:29,439 - Login - INFO - End: click denticon login button method
+2023-06-26 15:17:33,843 - Login - INFO - Start: started set user name method
+2023-06-26 15:17:33,843 - Login - INFO - Start: started set user name method
+2023-06-26 15:17:33,962 - Login - INFO - End: set user name method
+2023-06-26 15:17:33,962 - Login - INFO - End: set user name method
+2023-06-26 15:17:33,965 - Login - INFO - Start: set password method
+2023-06-26 15:17:33,965 - Login - INFO - Start: set password method
+2023-06-26 15:17:34,055 - Login - INFO - End: set password method
+2023-06-26 15:17:34,055 - Login - INFO - End: set password method
+2023-06-26 15:17:34,057 - Login - INFO - Start: click denticon login button method
+2023-06-26 15:17:34,057 - Login - INFO - Start: click denticon login button method
+2023-06-26 15:17:34,117 - Login - INFO - End: click denticon login button method
+2023-06-26 15:17:34,117 - Login - INFO - End: click denticon login button method
+2023-06-26 15:17:38,796 - Login - INFO - Start: started set user name method
+2023-06-26 15:17:38,796 - Login - INFO - Start: started set user name method
+2023-06-26 15:17:38,925 - Login - INFO - End: set user name method
+2023-06-26 15:17:38,925 - Login - INFO - End: set user name method
+2023-06-26 15:17:38,927 - Login - INFO - Start: set password method
+2023-06-26 15:17:38,927 - Login - INFO - Start: set password method
+2023-06-26 15:17:39,025 - Login - INFO - End: set password method
+2023-06-26 15:17:39,025 - Login - INFO - End: set password method
+2023-06-26 15:17:39,029 - Login - INFO - Start: click denticon login button method
+2023-06-26 15:17:39,029 - Login - INFO - Start: click denticon login button method
+2023-06-26 15:17:39,094 - Login - INFO - End: click denticon login button method
+2023-06-26 15:17:39,094 - Login - INFO - End: click denticon login button method
+2023-06-26 15:21:08,011 - Login - INFO - Start: started set user name method
+2023-06-26 15:21:08,011 - Login - INFO - Start: started set user name method
+2023-06-26 15:21:08,118 - Login - INFO - End: set user name method
+2023-06-26 15:21:08,118 - Login - INFO - End: set user name method
+2023-06-26 15:21:08,120 - Login - INFO - Start: set password method
+2023-06-26 15:21:08,120 - Login - INFO - Start: set password method
+2023-06-26 15:21:08,199 - Login - INFO - End: set password method
+2023-06-26 15:21:08,199 - Login - INFO - End: set password method
+2023-06-26 15:21:08,200 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:21:08,200 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:21:08,282 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:21:08,282 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:21:13,050 - Login - INFO - Start: started set user name method
+2023-06-26 15:21:13,050 - Login - INFO - Start: started set user name method
+2023-06-26 15:21:13,165 - Login - INFO - End: set user name method
+2023-06-26 15:21:13,165 - Login - INFO - End: set user name method
+2023-06-26 15:21:13,167 - Login - INFO - Start: set password method
+2023-06-26 15:21:13,167 - Login - INFO - Start: set password method
+2023-06-26 15:21:13,268 - Login - INFO - End: set password method
+2023-06-26 15:21:13,268 - Login - INFO - End: set password method
+2023-06-26 15:21:13,270 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:21:13,270 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:21:13,337 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:21:13,337 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:21:17,788 - Login - INFO - Start: started set user name method
+2023-06-26 15:21:17,788 - Login - INFO - Start: started set user name method
+2023-06-26 15:21:17,912 - Login - INFO - End: set user name method
+2023-06-26 15:21:17,912 - Login - INFO - End: set user name method
+2023-06-26 15:21:17,914 - Login - INFO - Start: set password method
+2023-06-26 15:21:17,914 - Login - INFO - Start: set password method
+2023-06-26 15:21:18,001 - Login - INFO - End: set password method
+2023-06-26 15:21:18,001 - Login - INFO - End: set password method
+2023-06-26 15:21:18,003 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:21:18,003 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:21:18,075 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:21:18,075 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:33:52,322 - Login - INFO - Start: started set user name method
+2023-06-26 15:33:52,322 - Login - INFO - Start: started set user name method
+2023-06-26 15:33:52,420 - Login - INFO - End: set user name method
+2023-06-26 15:33:52,420 - Login - INFO - End: set user name method
+2023-06-26 15:33:52,422 - Login - INFO - Start: set password method
+2023-06-26 15:33:52,422 - Login - INFO - Start: set password method
+2023-06-26 15:33:52,515 - Login - INFO - End: set password method
+2023-06-26 15:33:52,515 - Login - INFO - End: set password method
+2023-06-26 15:33:52,517 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:33:52,517 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:33:52,608 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:33:52,608 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:33:57,056 - Login - INFO - Start: started set user name method
+2023-06-26 15:33:57,056 - Login - INFO - Start: started set user name method
+2023-06-26 15:33:57,166 - Login - INFO - End: set user name method
+2023-06-26 15:33:57,166 - Login - INFO - End: set user name method
+2023-06-26 15:33:57,168 - Login - INFO - Start: set password method
+2023-06-26 15:33:57,168 - Login - INFO - Start: set password method
+2023-06-26 15:33:57,252 - Login - INFO - End: set password method
+2023-06-26 15:33:57,252 - Login - INFO - End: set password method
+2023-06-26 15:33:57,253 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:33:57,253 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:33:57,315 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:33:57,315 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:34:02,128 - Login - INFO - Start: started set user name method
+2023-06-26 15:34:02,128 - Login - INFO - Start: started set user name method
+2023-06-26 15:34:02,236 - Login - INFO - End: set user name method
+2023-06-26 15:34:02,236 - Login - INFO - End: set user name method
+2023-06-26 15:34:02,238 - Login - INFO - Start: set password method
+2023-06-26 15:34:02,238 - Login - INFO - Start: set password method
+2023-06-26 15:34:02,325 - Login - INFO - End: set password method
+2023-06-26 15:34:02,325 - Login - INFO - End: set password method
+2023-06-26 15:34:02,327 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:34:02,327 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:34:02,395 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:34:02,395 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:54:31,173 - Login - INFO - Start: started set user name method
+2023-06-26 15:54:31,173 - Login - INFO - Start: started set user name method
+2023-06-26 15:54:31,289 - Login - INFO - End: set user name method
+2023-06-26 15:54:31,289 - Login - INFO - End: set user name method
+2023-06-26 15:54:31,291 - Login - INFO - Start: set password method
+2023-06-26 15:54:31,291 - Login - INFO - Start: set password method
+2023-06-26 15:54:31,383 - Login - INFO - End: set password method
+2023-06-26 15:54:31,383 - Login - INFO - End: set password method
+2023-06-26 15:54:31,384 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:54:31,384 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:54:31,469 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:54:31,469 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:54:52,021 - Login - INFO - Start: started set user name method
+2023-06-26 15:54:52,021 - Login - INFO - Start: started set user name method
+2023-06-26 15:54:52,130 - Login - INFO - End: set user name method
+2023-06-26 15:54:52,130 - Login - INFO - End: set user name method
+2023-06-26 15:54:52,131 - Login - INFO - Start: set password method
+2023-06-26 15:54:52,131 - Login - INFO - Start: set password method
+2023-06-26 15:54:52,203 - Login - INFO - End: set password method
+2023-06-26 15:54:52,203 - Login - INFO - End: set password method
+2023-06-26 15:54:52,204 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:54:52,204 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:54:52,307 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:54:52,307 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:56:13,621 - Login - INFO - Start: started set user name method
+2023-06-26 15:56:13,621 - Login - INFO - Start: started set user name method
+2023-06-26 15:56:13,726 - Login - INFO - End: set user name method
+2023-06-26 15:56:13,726 - Login - INFO - End: set user name method
+2023-06-26 15:56:13,728 - Login - INFO - Start: set password method
+2023-06-26 15:56:13,728 - Login - INFO - Start: set password method
+2023-06-26 15:56:13,810 - Login - INFO - End: set password method
+2023-06-26 15:56:13,810 - Login - INFO - End: set password method
+2023-06-26 15:56:13,812 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:56:13,812 - Login - INFO - Start: click saucelab login button method
+2023-06-26 15:56:13,900 - Login - INFO - End: click saucelab login button method
+2023-06-26 15:56:13,900 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:02,093 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:02,093 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:02,203 - Login - INFO - End: set user name method
+2023-06-26 16:41:02,203 - Login - INFO - End: set user name method
+2023-06-26 16:41:02,206 - Login - INFO - Start: set password method
+2023-06-26 16:41:02,206 - Login - INFO - Start: set password method
+2023-06-26 16:41:02,308 - Login - INFO - End: set password method
+2023-06-26 16:41:02,308 - Login - INFO - End: set password method
+2023-06-26 16:41:02,310 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:02,310 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:02,398 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:02,398 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:23,192 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:23,192 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:23,324 - Login - INFO - End: set user name method
+2023-06-26 16:41:23,324 - Login - INFO - End: set user name method
+2023-06-26 16:41:23,326 - Login - INFO - Start: set password method
+2023-06-26 16:41:23,326 - Login - INFO - Start: set password method
+2023-06-26 16:41:23,408 - Login - INFO - End: set password method
+2023-06-26 16:41:23,408 - Login - INFO - End: set password method
+2023-06-26 16:41:23,411 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:23,411 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:23,493 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:23,493 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:28,071 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:28,071 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:28,185 - Login - INFO - End: set user name method
+2023-06-26 16:41:28,185 - Login - INFO - End: set user name method
+2023-06-26 16:41:28,187 - Login - INFO - Start: set password method
+2023-06-26 16:41:28,187 - Login - INFO - Start: set password method
+2023-06-26 16:41:28,277 - Login - INFO - End: set password method
+2023-06-26 16:41:28,277 - Login - INFO - End: set password method
+2023-06-26 16:41:28,279 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:28,279 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:28,344 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:28,344 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:33,367 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:33,367 - Login - INFO - Start: started set user name method
+2023-06-26 16:41:33,498 - Login - INFO - End: set user name method
+2023-06-26 16:41:33,498 - Login - INFO - End: set user name method
+2023-06-26 16:41:33,500 - Login - INFO - Start: set password method
+2023-06-26 16:41:33,500 - Login - INFO - Start: set password method
+2023-06-26 16:41:33,592 - Login - INFO - End: set password method
+2023-06-26 16:41:33,592 - Login - INFO - End: set password method
+2023-06-26 16:41:33,595 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:33,595 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:41:33,653 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:41:33,653 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:59:44,070 - Login - INFO - Start: started set user name method
+2023-06-26 16:59:44,070 - Login - INFO - Start: started set user name method
+2023-06-26 16:59:44,207 - Login - INFO - End: set user name method
+2023-06-26 16:59:44,207 - Login - INFO - End: set user name method
+2023-06-26 16:59:44,209 - Login - INFO - Start: set password method
+2023-06-26 16:59:44,209 - Login - INFO - Start: set password method
+2023-06-26 16:59:44,304 - Login - INFO - End: set password method
+2023-06-26 16:59:44,304 - Login - INFO - End: set password method
+2023-06-26 16:59:44,305 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:59:44,305 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:59:44,393 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:59:44,393 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:59:49,153 - Login - INFO - Start: started set user name method
+2023-06-26 16:59:49,153 - Login - INFO - Start: started set user name method
+2023-06-26 16:59:49,294 - Login - INFO - End: set user name method
+2023-06-26 16:59:49,294 - Login - INFO - End: set user name method
+2023-06-26 16:59:49,298 - Login - INFO - Start: set password method
+2023-06-26 16:59:49,298 - Login - INFO - Start: set password method
+2023-06-26 16:59:49,396 - Login - INFO - End: set password method
+2023-06-26 16:59:49,396 - Login - INFO - End: set password method
+2023-06-26 16:59:49,399 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:59:49,399 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:59:49,459 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:59:49,459 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:59:54,625 - Login - INFO - Start: started set user name method
+2023-06-26 16:59:54,625 - Login - INFO - Start: started set user name method
+2023-06-26 16:59:54,802 - Login - INFO - End: set user name method
+2023-06-26 16:59:54,802 - Login - INFO - End: set user name method
+2023-06-26 16:59:54,804 - Login - INFO - Start: set password method
+2023-06-26 16:59:54,804 - Login - INFO - Start: set password method
+2023-06-26 16:59:54,914 - Login - INFO - End: set password method
+2023-06-26 16:59:54,914 - Login - INFO - End: set password method
+2023-06-26 16:59:54,917 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:59:54,917 - Login - INFO - Start: click saucelab login button method
+2023-06-26 16:59:54,984 - Login - INFO - End: click saucelab login button method
+2023-06-26 16:59:54,984 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:34:49,979 - Login - INFO - Start: started set user name method
+2023-06-26 17:34:49,979 - Login - INFO - Start: started set user name method
+2023-06-26 17:34:50,071 - Login - INFO - End: set user name method
+2023-06-26 17:34:50,071 - Login - INFO - End: set user name method
+2023-06-26 17:34:50,073 - Login - INFO - Start: set password method
+2023-06-26 17:34:50,073 - Login - INFO - Start: set password method
+2023-06-26 17:34:50,154 - Login - INFO - End: set password method
+2023-06-26 17:34:50,154 - Login - INFO - End: set password method
+2023-06-26 17:34:50,155 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:34:50,155 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:34:50,233 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:34:50,233 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:34:54,679 - Login - INFO - Start: started set user name method
+2023-06-26 17:34:54,679 - Login - INFO - Start: started set user name method
+2023-06-26 17:34:54,782 - Login - INFO - End: set user name method
+2023-06-26 17:34:54,782 - Login - INFO - End: set user name method
+2023-06-26 17:34:54,784 - Login - INFO - Start: set password method
+2023-06-26 17:34:54,784 - Login - INFO - Start: set password method
+2023-06-26 17:34:54,856 - Login - INFO - End: set password method
+2023-06-26 17:34:54,856 - Login - INFO - End: set password method
+2023-06-26 17:34:54,858 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:34:54,858 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:34:54,919 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:34:54,919 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:34:59,200 - Login - INFO - Start: started set user name method
+2023-06-26 17:34:59,200 - Login - INFO - Start: started set user name method
+2023-06-26 17:34:59,306 - Login - INFO - End: set user name method
+2023-06-26 17:34:59,306 - Login - INFO - End: set user name method
+2023-06-26 17:34:59,308 - Login - INFO - Start: set password method
+2023-06-26 17:34:59,308 - Login - INFO - Start: set password method
+2023-06-26 17:34:59,389 - Login - INFO - End: set password method
+2023-06-26 17:34:59,389 - Login - INFO - End: set password method
+2023-06-26 17:34:59,391 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:34:59,391 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:34:59,450 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:34:59,450 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:36:25,428 - Login - INFO - Start: started set user name method
+2023-06-26 17:36:25,428 - Login - INFO - Start: started set user name method
+2023-06-26 17:36:25,517 - Login - INFO - End: set user name method
+2023-06-26 17:36:25,517 - Login - INFO - End: set user name method
+2023-06-26 17:36:25,520 - Login - INFO - Start: set password method
+2023-06-26 17:36:25,520 - Login - INFO - Start: set password method
+2023-06-26 17:36:25,599 - Login - INFO - End: set password method
+2023-06-26 17:36:25,599 - Login - INFO - End: set password method
+2023-06-26 17:36:25,600 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:36:25,600 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:36:25,681 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:36:25,681 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:36:30,044 - Login - INFO - Start: started set user name method
+2023-06-26 17:36:30,044 - Login - INFO - Start: started set user name method
+2023-06-26 17:36:30,142 - Login - INFO - End: set user name method
+2023-06-26 17:36:30,142 - Login - INFO - End: set user name method
+2023-06-26 17:36:30,145 - Login - INFO - Start: set password method
+2023-06-26 17:36:30,145 - Login - INFO - Start: set password method
+2023-06-26 17:36:30,227 - Login - INFO - End: set password method
+2023-06-26 17:36:30,227 - Login - INFO - End: set password method
+2023-06-26 17:36:30,229 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:36:30,229 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:36:30,288 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:36:30,288 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:36:34,543 - Login - INFO - Start: started set user name method
+2023-06-26 17:36:34,543 - Login - INFO - Start: started set user name method
+2023-06-26 17:36:34,655 - Login - INFO - End: set user name method
+2023-06-26 17:36:34,655 - Login - INFO - End: set user name method
+2023-06-26 17:36:34,658 - Login - INFO - Start: set password method
+2023-06-26 17:36:34,658 - Login - INFO - Start: set password method
+2023-06-26 17:36:34,745 - Login - INFO - End: set password method
+2023-06-26 17:36:34,745 - Login - INFO - End: set password method
+2023-06-26 17:36:34,747 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:36:34,747 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:36:34,798 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:36:34,798 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:52:51,653 - Login - INFO - Start: started set user name method
+2023-06-26 17:52:51,653 - Login - INFO - Start: started set user name method
+2023-06-26 17:52:51,822 - Login - INFO - End: set user name method
+2023-06-26 17:52:51,822 - Login - INFO - End: set user name method
+2023-06-26 17:52:51,824 - Login - INFO - Start: set password method
+2023-06-26 17:52:51,824 - Login - INFO - Start: set password method
+2023-06-26 17:52:51,926 - Login - INFO - End: set password method
+2023-06-26 17:52:51,926 - Login - INFO - End: set password method
+2023-06-26 17:52:51,928 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:52:51,928 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:52:52,070 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:52:52,070 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:52:56,988 - Login - INFO - Start: started set user name method
+2023-06-26 17:52:56,988 - Login - INFO - Start: started set user name method
+2023-06-26 17:52:57,121 - Login - INFO - End: set user name method
+2023-06-26 17:52:57,121 - Login - INFO - End: set user name method
+2023-06-26 17:52:57,122 - Login - INFO - Start: set password method
+2023-06-26 17:52:57,122 - Login - INFO - Start: set password method
+2023-06-26 17:52:57,205 - Login - INFO - End: set password method
+2023-06-26 17:52:57,205 - Login - INFO - End: set password method
+2023-06-26 17:52:57,207 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:52:57,207 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:52:57,265 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:52:57,265 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:53:01,890 - Login - INFO - Start: started set user name method
+2023-06-26 17:53:01,890 - Login - INFO - Start: started set user name method
+2023-06-26 17:53:02,002 - Login - INFO - End: set user name method
+2023-06-26 17:53:02,002 - Login - INFO - End: set user name method
+2023-06-26 17:53:02,004 - Login - INFO - Start: set password method
+2023-06-26 17:53:02,004 - Login - INFO - Start: set password method
+2023-06-26 17:53:02,098 - Login - INFO - End: set password method
+2023-06-26 17:53:02,098 - Login - INFO - End: set password method
+2023-06-26 17:53:02,101 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:53:02,101 - Login - INFO - Start: click saucelab login button method
+2023-06-26 17:53:02,157 - Login - INFO - End: click saucelab login button method
+2023-06-26 17:53:02,157 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:05:46,546 - Login - INFO - Start: started set user name method
+2023-06-27 19:05:46,643 - Login - INFO - End: set user name method
+2023-06-27 19:09:31,847 - Login - INFO - Start: started set user name method
+2023-06-27 19:09:31,937 - Login - INFO - End: set user name method
+2023-06-27 19:09:31,940 - Login - INFO - Start: set password method
+2023-06-27 19:09:32,017 - Login - INFO - End: set password method
+2023-06-27 19:09:32,020 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:09:32,096 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:09:52,927 - Login - INFO - Start: started set user name method
+2023-06-27 19:09:53,017 - Login - INFO - End: set user name method
+2023-06-27 19:09:53,019 - Login - INFO - Start: set password method
+2023-06-27 19:09:53,095 - Login - INFO - End: set password method
+2023-06-27 19:09:53,096 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:09:53,177 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:09:56,621 - Login - INFO - Start: started set user name method
+2023-06-27 19:09:56,723 - Login - INFO - End: set user name method
+2023-06-27 19:09:56,724 - Login - INFO - Start: set password method
+2023-06-27 19:09:56,792 - Login - INFO - End: set password method
+2023-06-27 19:09:56,793 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:09:56,849 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:10:00,416 - Login - INFO - Start: started set user name method
+2023-06-27 19:10:00,521 - Login - INFO - End: set user name method
+2023-06-27 19:10:00,523 - Login - INFO - Start: set password method
+2023-06-27 19:10:00,607 - Login - INFO - End: set password method
+2023-06-27 19:10:00,609 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:10:00,664 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:14:56,264 - Login - INFO - Start: started set user name method
+2023-06-27 19:14:56,348 - Login - INFO - End: set user name method
+2023-06-27 19:14:56,351 - Login - INFO - Start: set password method
+2023-06-27 19:14:56,415 - Login - INFO - End: set password method
+2023-06-27 19:14:56,417 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:14:56,490 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:15:00,237 - Login - INFO - Start: started set user name method
+2023-06-27 19:15:00,336 - Login - INFO - End: set user name method
+2023-06-27 19:15:00,340 - Login - INFO - Start: set password method
+2023-06-27 19:15:00,424 - Login - INFO - End: set password method
+2023-06-27 19:15:00,426 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:15:00,481 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:15:04,134 - Login - INFO - Start: started set user name method
+2023-06-27 19:15:04,236 - Login - INFO - End: set user name method
+2023-06-27 19:15:04,237 - Login - INFO - Start: set password method
+2023-06-27 19:15:04,309 - Login - INFO - End: set password method
+2023-06-27 19:15:04,311 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:15:04,365 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:32:28,323 - Login - INFO - Start: started set user name method
+2023-06-27 19:32:28,432 - Login - INFO - End: set user name method
+2023-06-27 19:32:28,435 - Login - INFO - Start: set password method
+2023-06-27 19:32:28,519 - Login - INFO - End: set password method
+2023-06-27 19:32:28,520 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:32:28,603 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:32:32,203 - Login - INFO - Start: started set user name method
+2023-06-27 19:32:32,318 - Login - INFO - End: set user name method
+2023-06-27 19:32:32,320 - Login - INFO - Start: set password method
+2023-06-27 19:32:32,411 - Login - INFO - End: set password method
+2023-06-27 19:32:32,413 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:32:32,469 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:32:36,343 - Login - INFO - Start: started set user name method
+2023-06-27 19:32:36,461 - Login - INFO - End: set user name method
+2023-06-27 19:32:36,463 - Login - INFO - Start: set password method
+2023-06-27 19:32:36,558 - Login - INFO - End: set password method
+2023-06-27 19:32:36,560 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:32:36,623 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:33:11,358 - Login - INFO - Start: started set user name method
+2023-06-27 19:33:11,458 - Login - INFO - End: set user name method
+2023-06-27 19:33:11,461 - Login - INFO - Start: set password method
+2023-06-27 19:33:11,546 - Login - INFO - End: set password method
+2023-06-27 19:33:11,547 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:33:11,630 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:33:15,097 - Login - INFO - Start: started set user name method
+2023-06-27 19:33:15,200 - Login - INFO - End: set user name method
+2023-06-27 19:33:15,202 - Login - INFO - Start: set password method
+2023-06-27 19:33:15,292 - Login - INFO - End: set password method
+2023-06-27 19:33:15,294 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:33:15,353 - Login - INFO - End: click saucelab login button method
+2023-06-27 19:33:18,981 - Login - INFO - Start: started set user name method
+2023-06-27 19:33:19,112 - Login - INFO - End: set user name method
+2023-06-27 19:33:19,115 - Login - INFO - Start: set password method
+2023-06-27 19:33:19,208 - Login - INFO - End: set password method
+2023-06-27 19:33:19,211 - Login - INFO - Start: click saucelab login button method
+2023-06-27 19:33:19,269 - Login - INFO - End: click saucelab login button method
+2023-07-03 10:33:05,875 - Login - INFO - Start: started set user name method
+2023-07-03 10:33:06,171 - Login - INFO - End: set user name method
+2023-07-03 10:33:06,179 - Login - INFO - Start: set password method
+2023-07-03 10:33:06,481 - Login - INFO - End: set password method
+2023-07-03 10:33:06,486 - Login - INFO - Start: click saucelab login button method
+2023-07-03 10:33:06,675 - Login - INFO - End: click saucelab login button method
+2023-07-03 10:33:09,994 - Login - INFO - Start: started set user name method
+2023-07-03 10:33:10,141 - Login - INFO - End: set user name method
+2023-07-03 10:33:10,141 - Login - INFO - Start: set password method
+2023-07-03 10:33:10,271 - Login - INFO - End: set password method
+2023-07-03 10:33:10,271 - Login - INFO - Start: click saucelab login button method
+2023-07-03 10:33:10,373 - Login - INFO - End: click saucelab login button method
+2023-07-03 10:33:13,775 - Login - INFO - Start: started set user name method
+2023-07-03 10:33:13,938 - Login - INFO - End: set user name method
+2023-07-03 10:33:13,942 - Login - INFO - Start: set password method
+2023-07-03 10:33:14,050 - Login - INFO - End: set password method
+2023-07-03 10:33:14,054 - Login - INFO - Start: click saucelab login button method
+2023-07-03 10:33:14,152 - Login - INFO - End: click saucelab login button method
+2023-07-03 11:19:12,155 - Login - INFO - Start: started set user name method
+2023-07-03 11:19:12,496 - Login - INFO - End: set user name method
+2023-07-03 11:19:12,499 - Login - INFO - Start: set password method
+2023-07-03 11:19:12,653 - Login - INFO - End: set password method
+2023-07-03 11:19:12,661 - Login - INFO - Start: click saucelab login button method
+2023-07-03 11:19:12,942 - Login - INFO - End: click saucelab login button method
+2023-07-04 17:12:52,239 - Login - INFO - Start: started set user name method
+2023-07-04 17:12:52,331 - Login - INFO - End: set user name method
+2023-07-04 17:12:52,334 - Login - INFO - Start: set password method
+2023-07-04 17:12:52,425 - Login - INFO - End: set password method
+2023-07-04 17:12:52,427 - Login - INFO - Start: click saucelab login button method
+2023-07-04 17:12:52,506 - Login - INFO - End: click saucelab login button method
+2023-07-04 17:12:56,249 - Login - INFO - Start: started set user name method
+2023-07-04 17:12:56,350 - Login - INFO - End: set user name method
+2023-07-04 17:12:56,353 - Login - INFO - Start: set password method
+2023-07-04 17:12:56,433 - Login - INFO - End: set password method
+2023-07-04 17:12:56,434 - Login - INFO - Start: click saucelab login button method
+2023-07-04 17:12:56,497 - Login - INFO - End: click saucelab login button method
+2023-07-04 17:12:59,992 - Login - INFO - Start: started set user name method
+2023-07-04 17:13:00,094 - Login - INFO - End: set user name method
+2023-07-04 17:13:00,096 - Login - INFO - Start: set password method
+2023-07-04 17:13:00,186 - Login - INFO - End: set password method
+2023-07-04 17:13:00,188 - Login - INFO - Start: click saucelab login button method
+2023-07-04 17:13:00,255 - Login - INFO - End: click saucelab login button method
+2023-07-05 10:45:46,726 - Login - INFO - Start: started set user name method
+2023-07-05 10:45:46,838 - Login - INFO - End: set user name method
+2023-07-05 10:45:46,838 - Login - INFO - Start: set password method
+2023-07-05 10:45:46,917 - Login - INFO - End: set password method
+2023-07-05 10:45:46,917 - Login - INFO - Start: click saucelab login button method
+2023-07-05 10:45:47,007 - Login - INFO - End: click saucelab login button method
+2023-07-05 10:50:41,890 - Login - INFO - Start: started set user name method
+2023-07-05 10:50:41,890 - Login - INFO - Start: started set user name method
+2023-07-05 10:50:41,980 - Login - INFO - End: set user name method
+2023-07-05 10:50:41,980 - Login - INFO - End: set user name method
+2023-07-05 10:50:41,983 - Login - INFO - Start: set password method
+2023-07-05 10:50:41,983 - Login - INFO - Start: set password method
+2023-07-05 10:50:42,061 - Login - INFO - End: set password method
+2023-07-05 10:50:42,061 - Login - INFO - End: set password method
+2023-07-05 10:50:42,063 - Login - INFO - Start: click saucelab login button method
+2023-07-05 10:50:42,063 - Login - INFO - Start: click saucelab login button method
+2023-07-05 10:50:42,139 - Login - INFO - End: click saucelab login button method
+2023-07-05 10:50:42,139 - Login - INFO - End: click saucelab login button method
+2023-07-05 10:50:42,141 - Login - INFO - Start: started add a product to cart method
+2023-07-05 10:50:42,141 - Login - INFO - Start: started add a product to cart method
+2023-07-05 10:50:42,141 - Login - INFO - End: add a product to cart method
+2023-07-05 10:50:42,141 - Login - INFO - End: add a product to cart method
+2023-07-05 10:52:15,209 - Login - INFO - Start: started set user name method
+2023-07-05 10:52:15,209 - Login - INFO - Start: started set user name method
+2023-07-05 10:52:15,299 - Login - INFO - End: set user name method
+2023-07-05 10:52:15,299 - Login - INFO - End: set user name method
+2023-07-05 10:52:15,299 - Login - INFO - Start: set password method
+2023-07-05 10:52:15,299 - Login - INFO - Start: set password method
+2023-07-05 10:52:15,381 - Login - INFO - End: set password method
+2023-07-05 10:52:15,381 - Login - INFO - End: set password method
+2023-07-05 10:52:15,383 - Login - INFO - Start: click saucelab login button method
+2023-07-05 10:52:15,383 - Login - INFO - Start: click saucelab login button method
+2023-07-05 10:52:15,465 - Login - INFO - End: click saucelab login button method
+2023-07-05 10:52:15,465 - Login - INFO - End: click saucelab login button method
+2023-07-05 10:52:15,468 - Login - INFO - Start: started add a product to cart method
+2023-07-05 10:52:15,468 - Login - INFO - Start: started add a product to cart method
+2023-07-05 10:52:15,515 - Login - INFO - End: add a product to cart method
+2023-07-05 10:52:15,515 - Login - INFO - End: add a product to cart method
+2023-07-05 11:00:53,366 - Login - INFO - Start: started set user name method
+2023-07-05 11:00:53,454 - Login - INFO - End: set user name method
+2023-07-05 11:00:53,454 - Login - INFO - Start: set password method
+2023-07-05 11:00:53,529 - Login - INFO - End: set password method
+2023-07-05 11:00:53,529 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:00:53,611 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:00:57,035 - Login - INFO - Start: started set user name method
+2023-07-05 11:00:57,142 - Login - INFO - End: set user name method
+2023-07-05 11:00:57,142 - Login - INFO - Start: set password method
+2023-07-05 11:00:57,226 - Login - INFO - End: set password method
+2023-07-05 11:00:57,226 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:00:57,283 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:01:00,592 - Login - INFO - Start: started set user name method
+2023-07-05 11:01:00,696 - Login - INFO - End: set user name method
+2023-07-05 11:01:00,696 - Login - INFO - Start: set password method
+2023-07-05 11:01:00,784 - Login - INFO - End: set password method
+2023-07-05 11:01:00,784 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:01:00,844 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:17:50,916 - Login - INFO - Start: started set user name method
+2023-07-05 11:17:50,916 - Login - INFO - Start: started set user name method
+2023-07-05 11:17:51,005 - Login - INFO - End: set user name method
+2023-07-05 11:17:51,005 - Login - INFO - End: set user name method
+2023-07-05 11:17:51,005 - Login - INFO - Start: set password method
+2023-07-05 11:17:51,005 - Login - INFO - Start: set password method
+2023-07-05 11:17:51,082 - Login - INFO - End: set password method
+2023-07-05 11:17:51,082 - Login - INFO - End: set password method
+2023-07-05 11:17:51,082 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:17:51,082 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:17:51,162 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:17:51,162 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:17:51,166 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:17:51,166 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:19:59,309 - Login - INFO - Start: started set user name method
+2023-07-05 11:19:59,309 - Login - INFO - Start: started set user name method
+2023-07-05 11:19:59,402 - Login - INFO - End: set user name method
+2023-07-05 11:19:59,402 - Login - INFO - End: set user name method
+2023-07-05 11:19:59,405 - Login - INFO - Start: set password method
+2023-07-05 11:19:59,405 - Login - INFO - Start: set password method
+2023-07-05 11:19:59,478 - Login - INFO - End: set password method
+2023-07-05 11:19:59,478 - Login - INFO - End: set password method
+2023-07-05 11:19:59,478 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:19:59,478 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:19:59,562 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:19:59,562 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:19:59,564 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:19:59,564 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:19:59,565 - Login - INFO - End: add a product to cart method
+2023-07-05 11:19:59,565 - Login - INFO - End: add a product to cart method
+2023-07-05 11:25:05,629 - Login - INFO - Start: started set user name method
+2023-07-05 11:25:05,629 - Login - INFO - Start: started set user name method
+2023-07-05 11:25:05,722 - Login - INFO - End: set user name method
+2023-07-05 11:25:05,722 - Login - INFO - End: set user name method
+2023-07-05 11:25:05,723 - Login - INFO - Start: set password method
+2023-07-05 11:25:05,723 - Login - INFO - Start: set password method
+2023-07-05 11:25:05,786 - Login - INFO - End: set password method
+2023-07-05 11:25:05,786 - Login - INFO - End: set password method
+2023-07-05 11:25:05,788 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:25:05,788 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:25:05,862 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:25:05,862 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:25:05,864 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:25:05,864 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:26:06,151 - Login - ERROR - Product add button locator not found before specified time out
+2023-07-05 11:26:06,151 - Login - ERROR - Product add button locator not found before specified time out
+2023-07-05 11:26:06,151 - Login - INFO - End: add a product to cart method
+2023-07-05 11:26:06,151 - Login - INFO - End: add a product to cart method
+2023-07-05 11:28:05,242 - Login - INFO - Start: started set user name method
+2023-07-05 11:28:05,242 - Login - INFO - Start: started set user name method
+2023-07-05 11:28:05,338 - Login - INFO - End: set user name method
+2023-07-05 11:28:05,338 - Login - INFO - End: set user name method
+2023-07-05 11:28:05,339 - Login - INFO - Start: set password method
+2023-07-05 11:28:05,339 - Login - INFO - Start: set password method
+2023-07-05 11:28:05,409 - Login - INFO - End: set password method
+2023-07-05 11:28:05,409 - Login - INFO - End: set password method
+2023-07-05 11:28:05,409 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:28:05,409 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:28:05,496 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:28:05,496 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:28:05,496 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:28:05,496 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:28:05,555 - Login - INFO - End: add a product to cart method
+2023-07-05 11:28:05,555 - Login - INFO - End: add a product to cart method
+2023-07-05 11:40:42,480 - Login - INFO - Start: started set user name method
+2023-07-05 11:40:42,480 - Login - INFO - Start: started set user name method
+2023-07-05 11:40:42,572 - Login - INFO - End: set user name method
+2023-07-05 11:40:42,572 - Login - INFO - End: set user name method
+2023-07-05 11:40:42,574 - Login - INFO - Start: set password method
+2023-07-05 11:40:42,574 - Login - INFO - Start: set password method
+2023-07-05 11:40:42,646 - Login - INFO - End: set password method
+2023-07-05 11:40:42,646 - Login - INFO - End: set password method
+2023-07-05 11:40:42,646 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:40:42,646 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:40:42,728 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:40:42,728 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:40:42,728 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:40:42,728 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:40:42,728 - Login - INFO - End: add a product to cart method
+2023-07-05 11:40:42,728 - Login - INFO - End: add a product to cart method
+2023-07-05 11:42:18,410 - Login - INFO - Start: started set user name method
+2023-07-05 11:42:18,410 - Login - INFO - Start: started set user name method
+2023-07-05 11:42:18,501 - Login - INFO - End: set user name method
+2023-07-05 11:42:18,501 - Login - INFO - End: set user name method
+2023-07-05 11:42:18,501 - Login - INFO - Start: set password method
+2023-07-05 11:42:18,501 - Login - INFO - Start: set password method
+2023-07-05 11:42:18,580 - Login - INFO - End: set password method
+2023-07-05 11:42:18,580 - Login - INFO - End: set password method
+2023-07-05 11:42:18,583 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:42:18,583 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:42:18,661 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:42:18,661 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:42:18,664 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:42:18,664 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:42:18,665 - Login - INFO - End: add a product to cart method
+2023-07-05 11:42:18,665 - Login - INFO - End: add a product to cart method
+2023-07-05 11:47:56,730 - Login - INFO - Start: started set user name method
+2023-07-05 11:47:56,730 - Login - INFO - Start: started set user name method
+2023-07-05 11:47:56,823 - Login - INFO - End: set user name method
+2023-07-05 11:47:56,823 - Login - INFO - End: set user name method
+2023-07-05 11:47:56,823 - Login - INFO - Start: set password method
+2023-07-05 11:47:56,823 - Login - INFO - Start: set password method
+2023-07-05 11:47:56,897 - Login - INFO - End: set password method
+2023-07-05 11:47:56,897 - Login - INFO - End: set password method
+2023-07-05 11:47:56,897 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:47:56,897 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:47:56,990 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:47:56,990 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:47:56,994 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:47:56,994 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:48:55,683 - Login - INFO - Start: started set user name method
+2023-07-05 11:48:55,683 - Login - INFO - Start: started set user name method
+2023-07-05 11:48:55,774 - Login - INFO - End: set user name method
+2023-07-05 11:48:55,774 - Login - INFO - End: set user name method
+2023-07-05 11:48:55,776 - Login - INFO - Start: set password method
+2023-07-05 11:48:55,776 - Login - INFO - Start: set password method
+2023-07-05 11:48:55,855 - Login - INFO - End: set password method
+2023-07-05 11:48:55,855 - Login - INFO - End: set password method
+2023-07-05 11:48:55,855 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:48:55,855 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:48:55,937 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:48:55,937 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:48:55,939 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:48:55,939 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:48:55,996 - Login - INFO - End: add a product to cart method
+2023-07-05 11:48:55,996 - Login - INFO - End: add a product to cart method
+2023-07-05 11:57:12,615 - Login - INFO - Start: started set user name method
+2023-07-05 11:57:12,615 - Login - INFO - Start: started set user name method
+2023-07-05 11:57:12,707 - Login - INFO - End: set user name method
+2023-07-05 11:57:12,707 - Login - INFO - End: set user name method
+2023-07-05 11:57:12,707 - Login - INFO - Start: set password method
+2023-07-05 11:57:12,707 - Login - INFO - Start: set password method
+2023-07-05 11:57:12,787 - Login - INFO - End: set password method
+2023-07-05 11:57:12,787 - Login - INFO - End: set password method
+2023-07-05 11:57:12,787 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:57:12,787 - Login - INFO - Start: click saucelab login button method
+2023-07-05 11:57:12,869 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:57:12,869 - Login - INFO - End: click saucelab login button method
+2023-07-05 11:57:12,871 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:57:12,871 - Login - INFO - Start: started add a product to cart method
+2023-07-05 11:57:12,934 - Login - INFO - End: add a product to cart method
+2023-07-05 11:57:12,934 - Login - INFO - End: add a product to cart method
+2023-07-05 12:10:16,357 - Login - INFO - Start: started set user name method
+2023-07-05 12:10:16,357 - Login - INFO - Start: started set user name method
+2023-07-05 12:10:16,446 - Login - INFO - End: set user name method
+2023-07-05 12:10:16,446 - Login - INFO - End: set user name method
+2023-07-05 12:10:16,446 - Login - INFO - Start: set password method
+2023-07-05 12:10:16,446 - Login - INFO - Start: set password method
+2023-07-05 12:10:16,519 - Login - INFO - End: set password method
+2023-07-05 12:10:16,519 - Login - INFO - End: set password method
+2023-07-05 12:10:16,519 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:10:16,519 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:10:16,602 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:10:16,602 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:10:16,606 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:10:16,606 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:10:16,677 - Login - INFO - End: add a product to cart method
+2023-07-05 12:10:16,677 - Login - INFO - End: add a product to cart method
+2023-07-05 12:11:05,458 - Login - INFO - Start: started set user name method
+2023-07-05 12:11:05,458 - Login - INFO - Start: started set user name method
+2023-07-05 12:11:05,551 - Login - INFO - End: set user name method
+2023-07-05 12:11:05,551 - Login - INFO - End: set user name method
+2023-07-05 12:11:05,553 - Login - INFO - Start: set password method
+2023-07-05 12:11:05,553 - Login - INFO - Start: set password method
+2023-07-05 12:11:05,625 - Login - INFO - End: set password method
+2023-07-05 12:11:05,625 - Login - INFO - End: set password method
+2023-07-05 12:11:05,625 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:11:05,625 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:11:05,710 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:11:05,710 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:11:05,712 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:11:05,712 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:18:08,060 - Login - INFO - Start: started set user name method
+2023-07-05 12:18:08,060 - Login - INFO - Start: started set user name method
+2023-07-05 12:18:08,148 - Login - INFO - End: set user name method
+2023-07-05 12:18:08,148 - Login - INFO - End: set user name method
+2023-07-05 12:18:08,151 - Login - INFO - Start: set password method
+2023-07-05 12:18:08,151 - Login - INFO - Start: set password method
+2023-07-05 12:18:08,219 - Login - INFO - End: set password method
+2023-07-05 12:18:08,219 - Login - INFO - End: set password method
+2023-07-05 12:18:08,233 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:18:08,233 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:18:08,312 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:18:08,312 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:18:08,315 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:18:08,315 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:18:08,367 - Login - INFO - End: add a product to cart method
+2023-07-05 12:18:08,367 - Login - INFO - End: add a product to cart method
+2023-07-05 12:18:44,430 - Login - INFO - Start: started set user name method
+2023-07-05 12:18:44,430 - Login - INFO - Start: started set user name method
+2023-07-05 12:18:44,522 - Login - INFO - End: set user name method
+2023-07-05 12:18:44,522 - Login - INFO - End: set user name method
+2023-07-05 12:18:44,522 - Login - INFO - Start: set password method
+2023-07-05 12:18:44,522 - Login - INFO - Start: set password method
+2023-07-05 12:18:44,599 - Login - INFO - End: set password method
+2023-07-05 12:18:44,599 - Login - INFO - End: set password method
+2023-07-05 12:18:44,599 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:18:44,599 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:18:44,681 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:18:44,681 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:18:44,684 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:18:44,684 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:18:44,741 - Login - INFO - End: add a product to cart method
+2023-07-05 12:18:44,741 - Login - INFO - End: add a product to cart method
+2023-07-05 12:19:20,248 - Login - INFO - Start: started set user name method
+2023-07-05 12:19:20,248 - Login - INFO - Start: started set user name method
+2023-07-05 12:19:20,341 - Login - INFO - End: set user name method
+2023-07-05 12:19:20,341 - Login - INFO - End: set user name method
+2023-07-05 12:19:20,341 - Login - INFO - Start: set password method
+2023-07-05 12:19:20,341 - Login - INFO - Start: set password method
+2023-07-05 12:19:20,425 - Login - INFO - End: set password method
+2023-07-05 12:19:20,425 - Login - INFO - End: set password method
+2023-07-05 12:19:20,425 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:19:20,425 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:19:20,506 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:19:20,506 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:19:20,509 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:19:20,509 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:19:20,558 - Login - INFO - End: add a product to cart method
+2023-07-05 12:19:20,558 - Login - INFO - End: add a product to cart method
+2023-07-05 12:20:11,241 - Login - INFO - Start: started set user name method
+2023-07-05 12:20:11,241 - Login - INFO - Start: started set user name method
+2023-07-05 12:20:11,339 - Login - INFO - End: set user name method
+2023-07-05 12:20:11,339 - Login - INFO - End: set user name method
+2023-07-05 12:20:11,339 - Login - INFO - Start: set password method
+2023-07-05 12:20:11,339 - Login - INFO - Start: set password method
+2023-07-05 12:20:11,425 - Login - INFO - End: set password method
+2023-07-05 12:20:11,425 - Login - INFO - End: set password method
+2023-07-05 12:20:11,425 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:20:11,425 - Login - INFO - Start: click saucelab login button method
+2023-07-05 12:20:11,522 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:20:11,522 - Login - INFO - End: click saucelab login button method
+2023-07-05 12:20:11,525 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:20:11,525 - Login - INFO - Start: started add a product to cart method
+2023-07-05 12:20:11,584 - Login - INFO - End: add a product to cart method
+2023-07-05 12:20:11,584 - Login - INFO - End: add a product to cart method
+2023-07-05 13:42:51,853 - Login - INFO - Start: started set user name method
+2023-07-05 13:42:51,853 - Login - INFO - Start: started set user name method
+2023-07-05 13:42:51,954 - Login - INFO - End: set user name method
+2023-07-05 13:42:51,954 - Login - INFO - End: set user name method
+2023-07-05 13:42:51,954 - Login - INFO - Start: set password method
+2023-07-05 13:42:51,954 - Login - INFO - Start: set password method
+2023-07-05 13:42:52,049 - Login - INFO - End: set password method
+2023-07-05 13:42:52,049 - Login - INFO - End: set password method
+2023-07-05 13:42:52,051 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:42:52,051 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:42:52,132 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:42:52,132 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:42:52,135 - Login - INFO - Start: started add a product to cart method
+2023-07-05 13:42:52,135 - Login - INFO - Start: started add a product to cart method
+2023-07-05 13:42:52,183 - Login - INFO - End: add a product to cart method
+2023-07-05 13:42:52,183 - Login - INFO - End: add a product to cart method
+2023-07-05 13:43:14,935 - Login - INFO - Start: started set user name method
+2023-07-05 13:43:15,028 - Login - INFO - End: set user name method
+2023-07-05 13:43:15,030 - Login - INFO - Start: set password method
+2023-07-05 13:43:15,108 - Login - INFO - End: set password method
+2023-07-05 13:43:15,108 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:43:15,208 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:43:18,458 - Login - INFO - Start: started set user name method
+2023-07-05 13:43:18,557 - Login - INFO - End: set user name method
+2023-07-05 13:43:18,557 - Login - INFO - Start: set password method
+2023-07-05 13:43:18,642 - Login - INFO - End: set password method
+2023-07-05 13:43:18,643 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:43:18,702 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:43:22,022 - Login - INFO - Start: started set user name method
+2023-07-05 13:43:22,119 - Login - INFO - End: set user name method
+2023-07-05 13:43:22,119 - Login - INFO - Start: set password method
+2023-07-05 13:43:22,201 - Login - INFO - End: set password method
+2023-07-05 13:43:22,201 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:43:22,262 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:49:21,919 - Login - INFO - Start: started set user name method
+2023-07-05 13:49:21,919 - Login - INFO - Start: started set user name method
+2023-07-05 13:49:22,008 - Login - INFO - End: set user name method
+2023-07-05 13:49:22,008 - Login - INFO - End: set user name method
+2023-07-05 13:49:22,008 - Login - INFO - Start: set password method
+2023-07-05 13:49:22,008 - Login - INFO - Start: set password method
+2023-07-05 13:49:22,089 - Login - INFO - End: set password method
+2023-07-05 13:49:22,089 - Login - INFO - End: set password method
+2023-07-05 13:49:22,089 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:49:22,089 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:49:22,167 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:49:22,167 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:49:22,170 - Login - INFO - Start: started add a product to cart method
+2023-07-05 13:49:22,170 - Login - INFO - Start: started add a product to cart method
+2023-07-05 13:49:22,234 - Login - INFO - End: add a product to cart method
+2023-07-05 13:49:22,234 - Login - INFO - End: add a product to cart method
+2023-07-05 13:52:48,831 - Login - INFO - Start: started set user name method
+2023-07-05 13:52:48,831 - Login - INFO - Start: started set user name method
+2023-07-05 13:52:48,926 - Login - INFO - End: set user name method
+2023-07-05 13:52:48,926 - Login - INFO - End: set user name method
+2023-07-05 13:52:48,926 - Login - INFO - Start: set password method
+2023-07-05 13:52:48,926 - Login - INFO - Start: set password method
+2023-07-05 13:52:48,991 - Login - INFO - End: set password method
+2023-07-05 13:52:48,991 - Login - INFO - End: set password method
+2023-07-05 13:52:48,991 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:52:48,991 - Login - INFO - Start: click saucelab login button method
+2023-07-05 13:52:49,066 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:52:49,066 - Login - INFO - End: click saucelab login button method
+2023-07-05 13:52:49,068 - Login - INFO - Start: started add a product to cart method
+2023-07-05 13:52:49,068 - Login - INFO - Start: started add a product to cart method
+2023-07-05 13:52:49,106 - Login - INFO - End: add a product to cart method
+2023-07-05 13:52:49,106 - Login - INFO - End: add a product to cart method
+2023-07-05 14:04:58,126 - Login - INFO - Start: started set user name method
+2023-07-05 14:04:58,126 - Login - INFO - Start: started set user name method
+2023-07-05 14:04:58,215 - Login - INFO - End: set user name method
+2023-07-05 14:04:58,215 - Login - INFO - End: set user name method
+2023-07-05 14:04:58,215 - Login - INFO - Start: set password method
+2023-07-05 14:04:58,215 - Login - INFO - Start: set password method
+2023-07-05 14:04:58,300 - Login - INFO - End: set password method
+2023-07-05 14:04:58,300 - Login - INFO - End: set password method
+2023-07-05 14:04:58,300 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:04:58,300 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:04:58,383 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:04:58,383 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:04:58,385 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:04:58,385 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:04:58,447 - Login - INFO - End: add a product to cart method
+2023-07-05 14:04:58,447 - Login - INFO - End: add a product to cart method
+2023-07-05 14:04:58,447 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:04:58,447 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:06:59,720 - Login - INFO - Start: started set user name method
+2023-07-05 14:06:59,720 - Login - INFO - Start: started set user name method
+2023-07-05 14:06:59,814 - Login - INFO - End: set user name method
+2023-07-05 14:06:59,814 - Login - INFO - End: set user name method
+2023-07-05 14:06:59,814 - Login - INFO - Start: set password method
+2023-07-05 14:06:59,814 - Login - INFO - Start: set password method
+2023-07-05 14:06:59,896 - Login - INFO - End: set password method
+2023-07-05 14:06:59,896 - Login - INFO - End: set password method
+2023-07-05 14:06:59,896 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:06:59,896 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:06:59,979 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:06:59,979 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:06:59,982 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:06:59,982 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:07:00,048 - Login - INFO - End: add a product to cart method
+2023-07-05 14:07:00,048 - Login - INFO - End: add a product to cart method
+2023-07-05 14:07:00,060 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:07:00,060 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:07:11,460 - Login - ERROR - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+2023-07-05 14:07:11,460 - Login - ERROR - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+2023-07-05 14:07:11,460 - Login - INFO - End: remove a product to cart method
+2023-07-05 14:07:11,460 - Login - INFO - End: remove a product to cart method
+2023-07-05 14:07:26,805 - Login - INFO - Start: started set user name method
+2023-07-05 14:07:26,805 - Login - INFO - Start: started set user name method
+2023-07-05 14:07:26,901 - Login - INFO - End: set user name method
+2023-07-05 14:07:26,901 - Login - INFO - End: set user name method
+2023-07-05 14:07:26,903 - Login - INFO - Start: set password method
+2023-07-05 14:07:26,903 - Login - INFO - Start: set password method
+2023-07-05 14:07:26,983 - Login - INFO - End: set password method
+2023-07-05 14:07:26,983 - Login - INFO - End: set password method
+2023-07-05 14:07:26,984 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:07:26,984 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:07:27,065 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:07:27,065 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:07:27,067 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:07:27,067 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:07:27,129 - Login - INFO - End: add a product to cart method
+2023-07-05 14:07:27,129 - Login - INFO - End: add a product to cart method
+2023-07-05 14:07:27,129 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:07:27,129 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:08:27,387 - Login - ERROR - Product remove button locator not found before specified time out
+2023-07-05 14:08:27,387 - Login - ERROR - Product remove button locator not found before specified time out
+2023-07-05 14:08:27,388 - Login - INFO - End: remove a product to cart method
+2023-07-05 14:08:27,388 - Login - INFO - End: remove a product to cart method
+2023-07-05 14:10:38,141 - Login - INFO - Start: started set user name method
+2023-07-05 14:10:38,141 - Login - INFO - Start: started set user name method
+2023-07-05 14:10:38,234 - Login - INFO - End: set user name method
+2023-07-05 14:10:38,234 - Login - INFO - End: set user name method
+2023-07-05 14:10:38,234 - Login - INFO - Start: set password method
+2023-07-05 14:10:38,234 - Login - INFO - Start: set password method
+2023-07-05 14:10:38,310 - Login - INFO - End: set password method
+2023-07-05 14:10:38,310 - Login - INFO - End: set password method
+2023-07-05 14:10:38,314 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:10:38,314 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:10:38,393 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:10:38,393 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:10:38,397 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:10:38,397 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:10:38,463 - Login - INFO - End: add a product to cart method
+2023-07-05 14:10:38,463 - Login - INFO - End: add a product to cart method
+2023-07-05 14:10:38,463 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:10:38,463 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:33:19,014 - Login - INFO - Start: started set user name method
+2023-07-05 14:33:19,014 - Login - INFO - Start: started set user name method
+2023-07-05 14:33:19,100 - Login - INFO - End: set user name method
+2023-07-05 14:33:19,100 - Login - INFO - End: set user name method
+2023-07-05 14:33:19,102 - Login - INFO - Start: set password method
+2023-07-05 14:33:19,102 - Login - INFO - Start: set password method
+2023-07-05 14:33:19,167 - Login - INFO - End: set password method
+2023-07-05 14:33:19,167 - Login - INFO - End: set password method
+2023-07-05 14:33:19,168 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:33:19,168 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:33:19,242 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:33:19,242 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:33:19,244 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:33:19,244 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:33:19,313 - Login - INFO - End: add a product to cart method
+2023-07-05 14:33:19,313 - Login - INFO - End: add a product to cart method
+2023-07-05 14:33:19,315 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:33:19,315 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:33:19,315 - Login - INFO - End: remove a product to cart method
+2023-07-05 14:33:19,315 - Login - INFO - End: remove a product to cart method
+2023-07-05 14:35:20,996 - Login - INFO - Start: started set user name method
+2023-07-05 14:35:20,996 - Login - INFO - Start: started set user name method
+2023-07-05 14:35:21,087 - Login - INFO - End: set user name method
+2023-07-05 14:35:21,087 - Login - INFO - End: set user name method
+2023-07-05 14:35:21,089 - Login - INFO - Start: set password method
+2023-07-05 14:35:21,089 - Login - INFO - Start: set password method
+2023-07-05 14:35:21,166 - Login - INFO - End: set password method
+2023-07-05 14:35:21,166 - Login - INFO - End: set password method
+2023-07-05 14:35:21,166 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:35:21,166 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:35:21,248 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:35:21,248 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:35:21,251 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:35:21,251 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:35:21,306 - Login - INFO - End: add a product to cart method
+2023-07-05 14:35:21,306 - Login - INFO - End: add a product to cart method
+2023-07-05 14:35:21,306 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:35:21,306 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:38:41,098 - Login - INFO - Start: started set user name method
+2023-07-05 14:38:41,098 - Login - INFO - Start: started set user name method
+2023-07-05 14:38:41,187 - Login - INFO - End: set user name method
+2023-07-05 14:38:41,187 - Login - INFO - End: set user name method
+2023-07-05 14:38:41,187 - Login - INFO - Start: set password method
+2023-07-05 14:38:41,187 - Login - INFO - Start: set password method
+2023-07-05 14:38:41,261 - Login - INFO - End: set password method
+2023-07-05 14:38:41,261 - Login - INFO - End: set password method
+2023-07-05 14:38:41,264 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:38:41,264 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:38:41,344 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:38:41,344 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:38:41,348 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:38:41,348 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:38:41,407 - Login - INFO - End: add a product to cart method
+2023-07-05 14:38:41,407 - Login - INFO - End: add a product to cart method
+2023-07-05 14:38:41,409 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:38:41,409 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:57:38,373 - Login - INFO - Start: started set user name method
+2023-07-05 14:57:38,373 - Login - INFO - Start: started set user name method
+2023-07-05 14:57:38,473 - Login - INFO - End: set user name method
+2023-07-05 14:57:38,473 - Login - INFO - End: set user name method
+2023-07-05 14:57:38,473 - Login - INFO - Start: set password method
+2023-07-05 14:57:38,473 - Login - INFO - Start: set password method
+2023-07-05 14:57:38,556 - Login - INFO - End: set password method
+2023-07-05 14:57:38,556 - Login - INFO - End: set password method
+2023-07-05 14:57:38,556 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:57:38,556 - Login - INFO - Start: click saucelab login button method
+2023-07-05 14:57:38,637 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:57:38,637 - Login - INFO - End: click saucelab login button method
+2023-07-05 14:57:38,640 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:57:38,640 - Login - INFO - Start: started add a product to cart method
+2023-07-05 14:57:38,709 - Login - INFO - End: add a product to cart method
+2023-07-05 14:57:38,709 - Login - INFO - End: add a product to cart method
+2023-07-05 14:57:38,713 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:57:38,713 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 14:58:39,124 - Login - ERROR - Product remove button locator not found before specified time out
+2023-07-05 14:58:39,124 - Login - ERROR - Product remove button locator not found before specified time out
+2023-07-05 14:58:39,124 - Login - INFO - End: remove a product to cart method
+2023-07-05 14:58:39,124 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:05:29,299 - Login - INFO - Start: started set user name method
+2023-07-05 15:05:29,299 - Login - INFO - Start: started set user name method
+2023-07-05 15:05:29,390 - Login - INFO - End: set user name method
+2023-07-05 15:05:29,390 - Login - INFO - End: set user name method
+2023-07-05 15:05:29,393 - Login - INFO - Start: set password method
+2023-07-05 15:05:29,393 - Login - INFO - Start: set password method
+2023-07-05 15:05:29,466 - Login - INFO - End: set password method
+2023-07-05 15:05:29,466 - Login - INFO - End: set password method
+2023-07-05 15:05:29,466 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:05:29,466 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:05:29,546 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:05:29,546 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:05:29,546 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:05:29,546 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:05:29,612 - Login - INFO - End: add a product to cart method
+2023-07-05 15:05:29,612 - Login - INFO - End: add a product to cart method
+2023-07-05 15:05:29,613 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:05:29,613 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:07:34,118 - Login - INFO - Start: started set user name method
+2023-07-05 15:07:34,118 - Login - INFO - Start: started set user name method
+2023-07-05 15:07:34,209 - Login - INFO - End: set user name method
+2023-07-05 15:07:34,209 - Login - INFO - End: set user name method
+2023-07-05 15:07:34,209 - Login - INFO - Start: set password method
+2023-07-05 15:07:34,209 - Login - INFO - Start: set password method
+2023-07-05 15:07:34,284 - Login - INFO - End: set password method
+2023-07-05 15:07:34,284 - Login - INFO - End: set password method
+2023-07-05 15:07:34,284 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:07:34,284 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:07:34,370 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:07:34,370 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:07:34,372 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:07:34,372 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:07:34,438 - Login - INFO - End: add a product to cart method
+2023-07-05 15:07:34,438 - Login - INFO - End: add a product to cart method
+2023-07-05 15:07:34,441 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:07:34,441 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:07:34,495 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:07:34,495 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:16:29,240 - Login - INFO - Start: started set user name method
+2023-07-05 15:16:29,240 - Login - INFO - Start: started set user name method
+2023-07-05 15:16:29,329 - Login - INFO - End: set user name method
+2023-07-05 15:16:29,329 - Login - INFO - End: set user name method
+2023-07-05 15:16:29,329 - Login - INFO - Start: set password method
+2023-07-05 15:16:29,329 - Login - INFO - Start: set password method
+2023-07-05 15:16:29,409 - Login - INFO - End: set password method
+2023-07-05 15:16:29,409 - Login - INFO - End: set password method
+2023-07-05 15:16:29,409 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:16:29,409 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:16:29,493 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:16:29,493 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:16:29,496 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:16:29,496 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:16:29,557 - Login - INFO - End: add a product to cart method
+2023-07-05 15:16:29,557 - Login - INFO - End: add a product to cart method
+2023-07-05 15:16:29,559 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:16:29,559 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:16:29,626 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:16:29,626 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:18:49,169 - Login - INFO - Start: started set user name method
+2023-07-05 15:18:49,169 - Login - INFO - Start: started set user name method
+2023-07-05 15:18:49,267 - Login - INFO - End: set user name method
+2023-07-05 15:18:49,267 - Login - INFO - End: set user name method
+2023-07-05 15:18:49,267 - Login - INFO - Start: set password method
+2023-07-05 15:18:49,267 - Login - INFO - Start: set password method
+2023-07-05 15:18:49,348 - Login - INFO - End: set password method
+2023-07-05 15:18:49,348 - Login - INFO - End: set password method
+2023-07-05 15:18:49,348 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:18:49,348 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:18:49,433 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:18:49,433 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:18:49,435 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:18:49,435 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:18:49,489 - Login - INFO - End: add a product to cart method
+2023-07-05 15:18:49,489 - Login - INFO - End: add a product to cart method
+2023-07-05 15:18:49,489 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:18:49,489 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:18:49,557 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:18:49,557 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:35:40,916 - Login - INFO - Start: started set user name method
+2023-07-05 15:35:40,916 - Login - INFO - Start: started set user name method
+2023-07-05 15:35:40,999 - Login - INFO - End: set user name method
+2023-07-05 15:35:40,999 - Login - INFO - End: set user name method
+2023-07-05 15:35:40,999 - Login - INFO - Start: set password method
+2023-07-05 15:35:40,999 - Login - INFO - Start: set password method
+2023-07-05 15:35:41,086 - Login - INFO - End: set password method
+2023-07-05 15:35:41,086 - Login - INFO - End: set password method
+2023-07-05 15:35:41,086 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:35:41,086 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:35:41,167 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:35:41,167 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:35:41,170 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:35:41,170 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:35:41,216 - Login - INFO - End: add a product to cart method
+2023-07-05 15:35:41,216 - Login - INFO - End: add a product to cart method
+2023-07-05 15:35:41,232 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:35:41,232 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 15:35:41,285 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:35:41,285 - Login - INFO - End: remove a product to cart method
+2023-07-05 15:45:03,239 - Login - INFO - Start: started set user name method
+2023-07-05 15:45:03,239 - Login - INFO - Start: started set user name method
+2023-07-05 15:45:03,332 - Login - INFO - End: set user name method
+2023-07-05 15:45:03,332 - Login - INFO - End: set user name method
+2023-07-05 15:45:03,332 - Login - INFO - Start: set password method
+2023-07-05 15:45:03,332 - Login - INFO - Start: set password method
+2023-07-05 15:45:03,410 - Login - INFO - End: set password method
+2023-07-05 15:45:03,410 - Login - INFO - End: set password method
+2023-07-05 15:45:03,410 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:45:03,410 - Login - INFO - Start: click saucelab login button method
+2023-07-05 15:45:03,486 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:45:03,486 - Login - INFO - End: click saucelab login button method
+2023-07-05 15:45:03,489 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:45:03,489 - Login - INFO - Start: started add a product to cart method
+2023-07-05 15:45:03,528 - Login - INFO - End: add a product to cart method
+2023-07-05 15:45:03,528 - Login - INFO - End: add a product to cart method
+2023-07-05 16:01:58,425 - Login - INFO - Start: started set user name method
+2023-07-05 16:01:58,516 - Login - INFO - End: set user name method
+2023-07-05 16:01:58,518 - Login - INFO - Start: set password method
+2023-07-05 16:01:58,597 - Login - INFO - End: set password method
+2023-07-05 16:01:58,599 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:01:58,697 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:02:02,051 - Login - INFO - Start: started set user name method
+2023-07-05 16:02:02,153 - Login - INFO - End: set user name method
+2023-07-05 16:02:02,155 - Login - INFO - Start: set password method
+2023-07-05 16:02:02,238 - Login - INFO - End: set password method
+2023-07-05 16:02:02,241 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:02:02,294 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:02:05,420 - Login - INFO - Start: started set user name method
+2023-07-05 16:02:05,521 - Login - INFO - End: set user name method
+2023-07-05 16:02:05,522 - Login - INFO - Start: set password method
+2023-07-05 16:02:05,609 - Login - INFO - End: set password method
+2023-07-05 16:02:05,610 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:02:05,668 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:02:40,607 - Login - INFO - Start: started set user name method
+2023-07-05 16:02:40,607 - Login - INFO - Start: started set user name method
+2023-07-05 16:02:40,705 - Login - INFO - End: set user name method
+2023-07-05 16:02:40,705 - Login - INFO - End: set user name method
+2023-07-05 16:02:40,709 - Login - INFO - Start: set password method
+2023-07-05 16:02:40,709 - Login - INFO - Start: set password method
+2023-07-05 16:02:40,802 - Login - INFO - End: set password method
+2023-07-05 16:02:40,802 - Login - INFO - End: set password method
+2023-07-05 16:02:40,803 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:02:40,803 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:02:40,881 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:02:40,881 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:02:40,884 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:02:40,884 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:02:40,938 - Login - INFO - End: add a product to cart method
+2023-07-05 16:02:40,938 - Login - INFO - End: add a product to cart method
+2023-07-05 16:02:40,940 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:02:40,940 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:02:40,990 - Login - INFO - End: remove a product to cart method
+2023-07-05 16:02:40,990 - Login - INFO - End: remove a product to cart method
+2023-07-05 16:10:30,793 - Login - INFO - Start: started set user name method
+2023-07-05 16:10:30,793 - Login - INFO - Start: started set user name method
+2023-07-05 16:10:30,897 - Login - INFO - End: set user name method
+2023-07-05 16:10:30,897 - Login - INFO - End: set user name method
+2023-07-05 16:10:30,899 - Login - INFO - Start: set password method
+2023-07-05 16:10:30,899 - Login - INFO - Start: set password method
+2023-07-05 16:10:30,985 - Login - INFO - End: set password method
+2023-07-05 16:10:30,985 - Login - INFO - End: set password method
+2023-07-05 16:10:30,988 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:10:30,988 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:10:31,075 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:10:31,075 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:10:31,078 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:10:31,078 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:10:31,144 - Login - INFO - End: add a product to cart method
+2023-07-05 16:10:31,144 - Login - INFO - End: add a product to cart method
+2023-07-05 16:10:31,148 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:10:31,148 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:10:31,211 - Login - INFO - End: remove a product to cart method
+2023-07-05 16:10:31,211 - Login - INFO - End: remove a product to cart method
+2023-07-05 16:13:19,181 - Login - INFO - Start: started set user name method
+2023-07-05 16:13:19,181 - Login - INFO - Start: started set user name method
+2023-07-05 16:13:19,270 - Login - INFO - End: set user name method
+2023-07-05 16:13:19,270 - Login - INFO - End: set user name method
+2023-07-05 16:13:19,270 - Login - INFO - Start: set password method
+2023-07-05 16:13:19,270 - Login - INFO - Start: set password method
+2023-07-05 16:13:19,348 - Login - INFO - End: set password method
+2023-07-05 16:13:19,348 - Login - INFO - End: set password method
+2023-07-05 16:13:19,348 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:13:19,348 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:13:19,430 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:13:19,430 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:13:19,433 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:13:19,433 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:13:19,494 - Login - INFO - End: add a product to cart method
+2023-07-05 16:13:19,494 - Login - INFO - End: add a product to cart method
+2023-07-05 16:13:19,494 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:13:19,494 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:13:19,553 - Login - INFO - End: remove a product to cart method
+2023-07-05 16:13:19,553 - Login - INFO - End: remove a product to cart method
+2023-07-05 16:43:05,885 - Login - INFO - Start: started set user name method
+2023-07-05 16:43:05,885 - Login - INFO - Start: started set user name method
+2023-07-05 16:43:05,990 - Login - INFO - End: set user name method
+2023-07-05 16:43:05,990 - Login - INFO - End: set user name method
+2023-07-05 16:43:05,993 - Login - INFO - Start: set password method
+2023-07-05 16:43:05,993 - Login - INFO - Start: set password method
+2023-07-05 16:43:06,078 - Login - INFO - End: set password method
+2023-07-05 16:43:06,078 - Login - INFO - End: set password method
+2023-07-05 16:43:06,081 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:43:06,081 - Login - INFO - Start: click saucelab login button method
+2023-07-05 16:43:06,167 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:43:06,167 - Login - INFO - End: click saucelab login button method
+2023-07-05 16:43:06,169 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:43:06,169 - Login - INFO - Start: started add a product to cart method
+2023-07-05 16:43:06,236 - Login - INFO - End: add a product to cart method
+2023-07-05 16:43:06,236 - Login - INFO - End: add a product to cart method
+2023-07-05 16:43:06,238 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:43:06,238 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 16:43:06,308 - Login - INFO - End: remove a product to cart method
+2023-07-05 16:43:06,308 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:03:35,696 - Login - INFO - Start: started set user name method
+2023-07-05 17:03:35,696 - Login - INFO - Start: started set user name method
+2023-07-05 17:03:35,803 - Login - INFO - End: set user name method
+2023-07-05 17:03:35,803 - Login - INFO - End: set user name method
+2023-07-05 17:03:35,806 - Login - INFO - Start: set password method
+2023-07-05 17:03:35,806 - Login - INFO - Start: set password method
+2023-07-05 17:03:35,893 - Login - INFO - End: set password method
+2023-07-05 17:03:35,893 - Login - INFO - End: set password method
+2023-07-05 17:03:35,895 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:03:35,895 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:03:35,987 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:03:35,987 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:03:35,991 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:03:35,991 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:03:36,054 - Login - INFO - End: add a product to cart method
+2023-07-05 17:03:36,054 - Login - INFO - End: add a product to cart method
+2023-07-05 17:03:36,056 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:03:36,056 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:03:36,121 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:03:36,121 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:05:28,827 - Login - INFO - Start: started set user name method
+2023-07-05 17:05:28,827 - Login - INFO - Start: started set user name method
+2023-07-05 17:05:28,921 - Login - INFO - End: set user name method
+2023-07-05 17:05:28,921 - Login - INFO - End: set user name method
+2023-07-05 17:05:28,924 - Login - INFO - Start: set password method
+2023-07-05 17:05:28,924 - Login - INFO - Start: set password method
+2023-07-05 17:05:29,007 - Login - INFO - End: set password method
+2023-07-05 17:05:29,007 - Login - INFO - End: set password method
+2023-07-05 17:05:29,009 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:05:29,009 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:05:29,094 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:05:29,094 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:05:29,099 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:05:29,099 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:05:29,167 - Login - INFO - End: add a product to cart method
+2023-07-05 17:05:29,167 - Login - INFO - End: add a product to cart method
+2023-07-05 17:05:29,169 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:05:29,169 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:05:29,225 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:05:29,225 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:08:42,637 - Login - INFO - Start: started set user name method
+2023-07-05 17:08:42,637 - Login - INFO - Start: started set user name method
+2023-07-05 17:08:42,731 - Login - INFO - End: set user name method
+2023-07-05 17:08:42,731 - Login - INFO - End: set user name method
+2023-07-05 17:08:42,733 - Login - INFO - Start: set password method
+2023-07-05 17:08:42,733 - Login - INFO - Start: set password method
+2023-07-05 17:08:42,800 - Login - INFO - End: set password method
+2023-07-05 17:08:42,800 - Login - INFO - End: set password method
+2023-07-05 17:08:42,803 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:08:42,803 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:08:42,882 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:08:42,882 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:08:42,885 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:08:42,885 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:08:42,944 - Login - INFO - End: add a product to cart method
+2023-07-05 17:08:42,944 - Login - INFO - End: add a product to cart method
+2023-07-05 17:08:42,947 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:08:42,947 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:08:43,002 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:08:43,002 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:15:16,035 - Login - INFO - Start: started set user name method
+2023-07-05 17:15:16,035 - Login - INFO - Start: started set user name method
+2023-07-05 17:15:16,145 - Login - INFO - End: set user name method
+2023-07-05 17:15:16,145 - Login - INFO - End: set user name method
+2023-07-05 17:15:16,146 - Login - INFO - Start: set password method
+2023-07-05 17:15:16,146 - Login - INFO - Start: set password method
+2023-07-05 17:15:16,227 - Login - INFO - End: set password method
+2023-07-05 17:15:16,227 - Login - INFO - End: set password method
+2023-07-05 17:15:16,227 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:15:16,227 - Login - INFO - Start: click saucelab login button method
+2023-07-05 17:15:16,315 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:15:16,315 - Login - INFO - End: click saucelab login button method
+2023-07-05 17:15:16,318 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:15:16,318 - Login - INFO - Start: started add a product to cart method
+2023-07-05 17:15:16,387 - Login - INFO - End: add a product to cart method
+2023-07-05 17:15:16,387 - Login - INFO - End: add a product to cart method
+2023-07-05 17:15:16,391 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:15:16,391 - Login - INFO - Start: started remove a product to cart method
+2023-07-05 17:15:16,456 - Login - INFO - End: remove a product to cart method
+2023-07-05 17:15:16,456 - Login - INFO - End: remove a product to cart method
