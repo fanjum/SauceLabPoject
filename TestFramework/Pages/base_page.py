@@ -104,3 +104,11 @@ class BasePage:
         """
         checkbox_locator = (By.XPATH, "//label[text()='%s']/../input[@type='checkbox']" % (checkbox_label))
         self.click(locator=checkbox_locator, error_message='checkbox locator not found before specified time out')
+
+    def find_elements(self, elements_locator):
+        """
+        Implementing finding all elements based on the provided locator functionality.
+        :param elements_locator:
+        :return:
+        """
+        return Browser.find_elements(elements_locator)

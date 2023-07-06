@@ -26,18 +26,18 @@ class Inventory:
         :param product_name:
         :return: True/False
         """
-        status = None
+        is_added = None
         try:
             self.logger.info('Start: started add a product to cart method')
             self._inventory_page.add_a_product_to_cart(product_name, product_page)
-            status = True
+            is_added = True
         except WebDriverException as exp:
             self.logger.error(exp.msg)
-            status = False
+            is_added = False
             raise
         finally:
             self.logger.info('End: add a product to cart method')
-            return status
+            return is_added
 
     def remove_a_product_to_cart(self, product_name, product_page):
         """
@@ -45,15 +45,34 @@ class Inventory:
         :param product_name:
         :return: True/False
         """
-        status = None
+        is_removed = None
         try:
             self.logger.info('Start: started remove a product to cart method')
             self._inventory_page.remove_a_product_to_cart(product_name, product_page)
-            status = True
+            is_removed = True
         except WebDriverException as exp:
             self.logger.error(exp.msg)
-            status = False
+            is_removed = False
             raise
         finally:
             self.logger.info('End: remove a product to cart method')
-            return status
+            return is_removed
+
+    def sort_name_az(self):
+        """
+        Returning sorting by name status
+        :param null
+        :return: True/False
+        """
+        is_sorted = None
+        try:
+            self.logger.info('Start: started sorting by name method')
+            self._inventory_page.sort_name_az()
+            is_sorted = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_sorted = False
+            raise
+        finally:
+            self.logger.info('End: sorting by name method')
+            return is_sorted

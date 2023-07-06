@@ -23,6 +23,12 @@ Verify removing a product to cart
     should be true    ${STATUS}     Unable to remove the product from cart
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
+Verify sorting products by Name A to Z
+    [Documentation]  Sort products by Name A to Z
+    ${STATUS} =     sort name az
+    should be true    ${STATUS}     Unable to sort products
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
+
 
 
 
