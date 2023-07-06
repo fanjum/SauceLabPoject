@@ -33,9 +33,16 @@ class InventoryPage(BasePage):
         :return:
         """
         if product_page:
-            print("Test")
-        else:
             # Update the product_item_locator with the product_name
+            self.product_item_locator = (
+                self.product_item_locator[0], self.product_item_locator[1].format(product_name))
+            # Click on the product using the updated locator.
+            self.click(self.product_item_locator, 'Product item locator not found before specified time out')
+            # Click on the add to cart button on the product page.
+            self.click(self.product_page_add_button_locator,
+                       'Product add button locator not found before specified time out')
+        else:
+            # Update the product_add_button_locator with the product_name
             self.product_add_button_locator = (
                 self.product_add_button_locator[0], self.product_add_button_locator[1].format(product_name))
             # Click on the button using the updated locator

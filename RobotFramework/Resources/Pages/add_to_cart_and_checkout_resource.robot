@@ -23,12 +23,6 @@ Verify removing a product to cart
     should be true    ${STATUS}
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
-#Verify clicking and adding a product to cart
-#    [Arguments]    ${PRODUCT}       ${PAGE}
-#    [Documentation]     Clicking on a product and adding to cart.
-#    ${STATUS} =     add a product to cart       ${PRODUCT}      ${PAGE}
-#    should be true    ${STATUS}
-#    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 
 
