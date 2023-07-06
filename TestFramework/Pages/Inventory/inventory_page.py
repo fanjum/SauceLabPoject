@@ -49,16 +49,22 @@ class InventoryPage(BasePage):
             self.click(self.product_add_button_locator,
                        'Product add button locator not found before specified time out')
 
-    def remove_a_product_to_cart(self, product_name):
+    def remove_a_product_to_cart(self, product_name, product_page):
         """
         Implementing add a product to cart functionality
         :param product_name:
         :return:
         """
-        self.product_remove_button_locator = (
-            self.product_remove_button_locator[0], self.product_remove_button_locator[1].format(product_name))
-        self.click(self.product_remove_button_locator,
-                   'Product remove button locator not found before specified time out')
+        if product_page:
+            print("Test")
+
+        else:
+            # Update the product_remove_button_locator with the product_name
+            self.product_remove_button_locator = (
+                self.product_remove_button_locator[0], self.product_remove_button_locator[1].format(product_name))
+            # Click on the button using the updated locator
+            self.click(self.product_remove_button_locator,
+                       'Product remove button locator not found before specified time out')
 
     # def click_login_button(self):
     #     """

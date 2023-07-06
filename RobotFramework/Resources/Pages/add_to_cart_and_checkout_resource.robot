@@ -17,9 +17,9 @@ Verify adding a product to cart
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 Verify removing a product to cart
-    [Arguments]    ${PRODUCT}
+    [Arguments]    ${PRODUCT}       ${PAGE}
     [Documentation]     Remove a products to cart.
-    ${STATUS} =     remove a product to cart       ${PRODUCT}
+    ${STATUS} =     remove a product to cart       ${PRODUCT}      ${PAGE}
     should be true    ${STATUS}     Unable to remove the product from cart
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 

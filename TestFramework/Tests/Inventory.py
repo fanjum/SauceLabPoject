@@ -39,7 +39,7 @@ class Inventory:
             self.logger.info('End: add a product to cart method')
             return status
 
-    def remove_a_product_to_cart(self, product_name):
+    def remove_a_product_to_cart(self, product_name, product_page):
         """
         Returning remove a product to cart status
         :param product_name:
@@ -48,7 +48,7 @@ class Inventory:
         status = None
         try:
             self.logger.info('Start: started remove a product to cart method')
-            self._inventory_page.remove_a_product_to_cart(product_name)
+            self._inventory_page.remove_a_product_to_cart(product_name, product_page)
             status = True
         except WebDriverException as exp:
             self.logger.error(exp.msg)
