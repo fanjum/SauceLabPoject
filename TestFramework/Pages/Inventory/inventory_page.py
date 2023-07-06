@@ -56,8 +56,9 @@ class InventoryPage(BasePage):
         :return:
         """
         if product_page:
-            print("Test")
-
+            # Click on the add to cart button on the product page.
+            self.click(self.product_page_remove_button_locator,
+                       'Product add button locator not found before specified time out')
         else:
             # Update the product_remove_button_locator with the product_name
             self.product_remove_button_locator = (

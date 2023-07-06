@@ -19,10 +19,14 @@ Add Products to Cart
     Verify adding a product to cart        ${PRODUCT NAME}      ${false}
 
 Remove the product to cart
-    [Documentation]    Removing available products to cart
+    [Documentation]    Removing the added product from cart
     Verify removing a product to cart        ${PRODUCT NAME}      ${false}
 
-#Click on a product then add to cart
-#    [Documentation]    Clicking on a product then adding the product to cart
-#    Verify adding a product to cart        ${PRODUCT NAME}      ${true}
+Click on a product then add to cart
+    [Documentation]    Clicking on a product then adding the product to cart
+    Verify adding a product to cart        ${PRODUCT NAME}      ${true}
+
+Remove the product from the product page
+    [Documentation]    Removing the added product from cart from the product page
+    Verify removing a product to cart        ${PRODUCT NAME}      ${true}
 
