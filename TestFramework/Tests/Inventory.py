@@ -20,7 +20,7 @@ class Inventory:
     def __init__(self):
         self._inventory_page = InventoryPage()
 
-    def add_a_product_to_cart(self, product_name):
+    def add_a_product_to_cart(self, product_name, product_page):
         """
         Returning add a product to cart status
         :param product_name:
@@ -29,7 +29,7 @@ class Inventory:
         status = None
         try:
             self.logger.info('Start: started add a product to cart method')
-            self._inventory_page.add_a_product_to_cart(product_name)
+            self._inventory_page.add_a_product_to_cart(product_name, product_page)
             status = True
         except WebDriverException as exp:
             self.logger.error(exp.msg)

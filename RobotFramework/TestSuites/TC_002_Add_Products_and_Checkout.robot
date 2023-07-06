@@ -16,8 +16,12 @@ Validate Login
 
 Add Products to Cart
     [Documentation]    Adding available products to cart
-    Verify adding a product to cart        ${PRODUCT NAME}
+    Verify adding a product to cart        ${PRODUCT NAME}      ${false}
 
 Remove the product to cart
     [Documentation]    Removing available products to cart
     Verify removing a product to cart        ${PRODUCT NAME}
+
+#Click on a product then add to cart
+#    [Documentation]    Clicking on a product then adding the product to cart
+#    Verify clicking and adding a product to cart        ${PRODUCT NAME}
