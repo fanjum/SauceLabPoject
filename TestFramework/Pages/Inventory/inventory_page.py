@@ -13,14 +13,16 @@ class InventoryPage(BasePage):
     Name sort function
     """
     # # Start: Inventory page locators
-    product_add_button_locator = (By.XPATH, "//div[@class='inventory_item_name' and text()='{}']/ancestor::div["
-                                            "@class='inventory_item']/descendant::button[@class='btn btn_primary btn_small "
-                                            "btn_inventory']")
-    product_remove_button_locator = (By.XPATH, "//div[@class='inventory_item_name' and text()='{}']/ancestor::div["
-                                               "@class='inventory_item']/descendant::button[@class='btn btn_secondary btn_small "
-                                               "btn_inventory']")
+    product_add_button_locator = (
+    By.XPATH, "//div[@class='inventory_item_name' and normalize-space()='{}']/ancestor::div["
+              "@class='inventory_item']/descendant::button[@class='btn btn_primary btn_small "
+              "btn_inventory']")
+    product_remove_button_locator = (
+    By.XPATH, "//div[@class='inventory_item_name' and normalize-space()='{}']/ancestor::div["
+              "@class='inventory_item']/descendant::button[@class='btn btn_secondary btn_small "
+              "btn_inventory']")
 
-    product_item_locator = (By.XPATH, "//div[@class='inventory_item_name' and text()='{}']")
+    product_item_locator = (By.XPATH, "//div[@class='inventory_item_name' and normalize-space()='{}']")
     product_page_add_button_locator = (By.XPATH, "//button[@class='btn btn_primary btn_small btn_inventory']")
     product_page_remove_button_locator = (By.XPATH, "//button[@class='btn btn_secondary btn_small btn_inventory']")
 
