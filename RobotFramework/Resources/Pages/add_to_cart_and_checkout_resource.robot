@@ -13,14 +13,14 @@ Verify adding a product to cart
     [Arguments]    ${PRODUCT}       ${PAGE}
     [Documentation]     Add a products to cart.
     ${STATUS} =     add a product to cart       ${PRODUCT}      ${PAGE}
-    should be true    ${STATUS}
+    should be true    ${STATUS}     Unable to add product to cart
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 Verify removing a product to cart
     [Arguments]    ${PRODUCT}
-    [Documentation]     Add a products to cart.
+    [Documentation]     Remove a products to cart.
     ${STATUS} =     remove a product to cart       ${PRODUCT}
-    should be true    ${STATUS}
+    should be true    ${STATUS}     Unable to remove the product from cart
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 
