@@ -3,7 +3,7 @@ Documentation    Set of tests to Add Products and Checkout
 
 Resource        ../Resources/common_resource.robot
 Resource        ../Resources/Pages/login_page_resource.robot
-Resource        ../Resources/Pages/add_to_cart_and_checkout_resource.robot
+Resource        ../Resources/Pages/inventory_page_resource.robot
 Resource        ../Resources/ExternalTestDataSource/add_product_test_data_source.robot
 
 Suite Setup         Validate Setup
@@ -17,3 +17,9 @@ Validate Login
 Add Products to Cart
     [Documentation]    Adding all available products to cart
     Verify adding all products to cart
+
+Validate Cart items
+    [Documentation]    Navigation to the cart and verifying the items selected
+    Verify the number of item selected
+    Verify navigation to cart
+    Verify the items selected with cart list

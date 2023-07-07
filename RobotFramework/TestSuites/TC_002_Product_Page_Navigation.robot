@@ -3,10 +3,11 @@ Documentation    Set of tests to Add Products and Checkout
 
 Resource        ../Resources/common_resource.robot
 Resource        ../Resources/Pages/login_page_resource.robot
-Resource        ../Resources/Pages/add_to_cart_and_checkout_resource.robot
+Resource        ../Resources/Pages/inventory_page_resource.robot
 Resource        ../Resources/ExternalTestDataSource/add_product_test_data_source.robot
 
 Suite Setup         Validate Setup
+Suite Teardown      Validate Teardown
 *** Test Cases ***
 Validate Login
     [Documentation]  Login Functionality with valid set of credentials
