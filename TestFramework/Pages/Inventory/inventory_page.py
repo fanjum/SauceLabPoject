@@ -22,8 +22,8 @@ class InventoryPage(BasePage):
     product_page_remove_button_locator = (By.XPATH, "//button[@class='btn btn_secondary btn_small btn_inventory']")
     sort_name_az_locator = (By.XPATH, "//option[contains(normalize-space(),'Name (A to Z)')]")
     sort_name_za_locator = (By.XPATH, "//option[contains(normalize-space(),'Name (Z to A)')]")
-    sort_price_lh_locator = (By.XPATH, " ")
-    sort_price_hl_locator = (By.XPATH, " ")
+    sort_price_lh_locator = (By.XPATH, "//option[contains(normalize-space(),'Price (low to high)')]")
+    sort_price_hl_locator = (By.XPATH, "//option[contains(normalize-space(),'Price (high to low)')]")
     products_name_locator = (By.XPATH, "//div[@class='inventory_item_name']")
     products_price_locator = (By.XPATH, "//div[@class='inventory_item_price']")
 

@@ -34,14 +34,14 @@ Sort products by Name A to Z
     [Documentation]  Sorting products by Name A to Z
     Verify sorting products        Name A to Z
 
-#Sort products by Name Z to A
-#    [Documentation]  Sorting products by Name Z to A
-#    Verify sorting products        Name Z to A
-#
-#Sort products by Price Low to High
-#    [Documentation]  Sorting products by Price Low to High
-#    Verify sorting products        Name A to Z
-#
-#Sort products by Price High to Low
-#    [Documentation]  Sorting products by High to Low
-#    Verify sorting products        Name A to Z
+Sort products by Name Z to A
+    [Documentation]  Sorting products by Name Z to A
+    Verify sorting products        Name Z to A
+
+Sort products by Price Low to High
+    [Documentation]  Sorting products by Price Low to High
+    Verify sorting products        Price Low to High
+
+Sort products by Price High to Low
+    [Documentation]  Sorting products by High to Low
+    Verify sorting products        Price High to Low
