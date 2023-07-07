@@ -22,6 +22,12 @@ Verify navigation to cart
 #    should be true    ${STATUS}     Unable to add product to cart
 #    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
+Verify Click Checkout Button
+    [Documentation]     Verifying clicking checkout button.
+    ${STATUS} =     click checkout button
+    should be true    ${STATUS}     Unable to click cart icon
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
+
 
 
 

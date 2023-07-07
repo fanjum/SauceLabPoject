@@ -25,3 +25,11 @@ Validate Cart items
 #    Verify the number of item selected
 #    Verify the items selected with cart list
 
+Validate Checkout
+    [Documentation]    Checkout with the added products in cart
+    Verify Click Checkout Button
+#    Verify Set User Name        ${VALID USERNAME}
+#    Verify Set Password         ${VALID PASSWORD}
+#    Verify Click Login Button
+
+

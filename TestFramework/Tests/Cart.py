@@ -39,3 +39,22 @@ class Cart:
         finally:
             self.logger.info('End: click on the cart icon method')
             return is_added
+
+    def click_checkout_button(self):
+        """
+        Returning click on the checkout button
+        :param:
+        :return: True/False
+        """
+        is_added = None
+        try:
+            self.logger.info('Start: started clicking on the checkout method')
+            self._cart_page.click_checkout_button()
+            is_added = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_added = False
+            raise
+        finally:
+            self.logger.info('End: click on the checkout method')
+            return is_added
