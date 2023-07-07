@@ -166,6 +166,13 @@ def capture_screenshot(directory):
 
 
 def script_executor_click(element):
-
     global _driver
     _driver.execute_script("var elem=arguments[0]; setTimeout(function() {elem.click();}, 50)", element)
+
+
+def find_elements(element):
+    """Implementating finding element list by locator
+    :return element list
+    """
+    global _driver
+    return _driver.find_elements(*element)
