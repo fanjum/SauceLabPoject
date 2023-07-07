@@ -1,4 +1,4 @@
-"""Implementing Login screen page objects"""
+"""Implementing Inventory screen page objects"""
 
 from selenium.webdriver.common.by import By
 from TestFramework.Pages.base_page import BasePage
@@ -66,6 +66,7 @@ class InventoryPage(BasePage):
         product_names = self.find_elements(self.products_name_locator)
         product_values = [element.text for element in product_names]
 
+        # Iterate through each product and add it to the cart
         for product_name in product_values:
             self.add_a_product_to_cart(product_name, False)
 
@@ -95,7 +96,7 @@ class InventoryPage(BasePage):
         :return: is_sorted
         """
         sort_locator = None
-
+        #  Determine the sort locator and element locator based on the sorting criteria.
         if sort_criteria == "Name A to Z":
             sort_locator = self.sort_name_az_locator
             element_locator = self.products_name_locator
@@ -109,16 +110,20 @@ class InventoryPage(BasePage):
             sort_locator = self.sort_price_hl_locator
             element_locator = self.products_price_locator
 
+        # Click on the sort locator
         self.click(sort_locator, 'Sort Name locator not found before specified time out')
 
+        # Get the list of element values based on the element locator
         element_elements = self.find_elements(element_locator)
         element_values = [element.text for element in element_elements]
 
+        # Sort the element values based on the sorting criteria
         if sort_criteria in ["Name A to Z", "Price Low to High"]:
             sorted_values = sorted(element_values)
         elif sort_criteria in ["Name Z to A", "Price High to Low"]:
             sorted_values = sorted(element_values, reverse=True)
 
+        # Check if the element values are sorted correctly
         is_sorted = element_values == sorted_values
         return is_sorted
 

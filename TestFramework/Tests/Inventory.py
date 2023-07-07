@@ -1,4 +1,4 @@
-"""Implementing Login functionality"""
+"""Implementing Invertory page functionalities"""
 
 from selenium.common.exceptions import WebDriverException
 from TestFramework.Helper.Logger import Logger
@@ -9,13 +9,12 @@ class Inventory:
     """
     Add products to cart
     Delete product from cart
-    Add all products
     Sort by name
     Sort by price
     """
     ROBOT_LIBRARY_SCOPE = 'TEST SUITE'
 
-    logger = Logger().get_logger('Login')
+    logger = Logger().get_logger('Inventory')
 
     def __init__(self):
         self._inventory_page = InventoryPage()

@@ -21,7 +21,7 @@ Add Products to Cart
 
 Validate Cart items
     [Documentation]    Navigation to the cart and verifying the items selected
-    Verify the number of item selected
-#    Verify navigation to cart
+    Verify navigation to cart
+#    Verify the number of item selected
 #    Verify the items selected with cart list
 
