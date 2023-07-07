@@ -124,7 +124,7 @@ class Cart:
         """
         is_clicked = None
         try:
-            self.logger.info('Start: started clicking on the continue method')
+            self.logger.info('Start: started clicking on the continue button method')
             self._cart_page.click_continue_button()
             is_clicked = True
         except WebDriverException as exp:
@@ -133,4 +133,23 @@ class Cart:
             raise
         finally:
             self.logger.info('End: click on the continue button method')
+            return is_clicked
+
+    def click_finish_button(self):
+        """
+        Returning click on the finish button status
+        :param:
+        :return: True/False
+        """
+        is_clicked = None
+        try:
+            self.logger.info('Start: started clicking on the finish button method')
+            self._cart_page.click_finish_button()
+            is_clicked = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_clicked = False
+            raise
+        finally:
+            self.logger.info('End: click on the finish button method')
             return is_clicked

@@ -54,3 +54,9 @@ Verify Click Continue Button
     ${STATUS} =     click continue button
     should be true    ${STATUS}     Unable to click continue
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
+
+Verify Click Finish Button
+    [Documentation]     Verifying clicking finish button.
+    ${STATUS} =     click finish button
+    should be true    ${STATUS}     Unable to click finish button
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot

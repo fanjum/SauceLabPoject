@@ -16,6 +16,7 @@ class CartPage(BasePage):
     last_name_locator = (By.ID, "last-name")
     zip_locator = (By.ID, "postal-code")
     continue_button_locator = (By.ID, "continue")
+    finish_button_locator = (By.ID, "finish")
 
     # End: Cart page locators
 
@@ -69,3 +70,11 @@ class CartPage(BasePage):
         :return:
         """
         self.click(self.continue_button_locator, 'Checkout button locator not found before specified time out')
+
+    def click_finish_button(self):
+        """
+        Implementing clicking on the checkout button functionality
+        :param
+        :return:
+        """
+        self.click(self.finish_button_locator, 'Checkout button locator not found before specified time out')

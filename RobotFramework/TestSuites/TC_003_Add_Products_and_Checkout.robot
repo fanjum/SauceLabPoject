@@ -32,5 +32,6 @@ Validate Checkout
     Verify Set Last Name         ${LAST NAME}
     Verify Set ZIP               ${ZIP}
     Verify Click Continue Button
+    Verify Click Finish Button
 
 
