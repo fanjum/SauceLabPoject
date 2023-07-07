@@ -58,21 +58,21 @@ class Inventory:
             self.logger.info('End: remove a product to cart method')
             return is_removed
 
-    def sort_name_az(self):
+    def sort(self, sort_criteria):
         """
         Returning sorting by name status
-        :param null
+        :param sort_criteria
         :return: True/False
         """
         is_sorted = None
         try:
-            self.logger.info('Start: started sorting by name method')
-            self._inventory_page.sort_name_az()
+            self.logger.info('Start: started sorting method')
+            self._inventory_page.sort(sort_criteria)
             is_sorted = True
         except WebDriverException as exp:
             self.logger.error(exp.msg)
             is_sorted = False
             raise
         finally:
-            self.logger.info('End: sorting by name method')
+            self.logger.info('End: sorting method')
             return is_sorted
