@@ -15,6 +15,7 @@ class CartPage(BasePage):
     first_name_locator = (By.ID, "first-name")
     last_name_locator = (By.ID, "last-name")
     zip_locator = (By.ID, "postal-code")
+    continue_button_locator = (By.ID, "continue")
 
     # End: Cart page locators
 
@@ -60,3 +61,11 @@ class CartPage(BasePage):
         """
         self.set_value_into_intput_field(self.zip_locator, zip,
                                          'ZIP input field locator not found before specified time out')
+
+    def click_continue_button(self):
+        """
+        Implementing clicking on the checkout button functionality
+        :param
+        :return:
+        """
+        self.click(self.continue_button_locator, 'Checkout button locator not found before specified time out')

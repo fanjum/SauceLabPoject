@@ -27,18 +27,18 @@ class Cart:
         :param:
         :return: True/False
         """
-        is_added = None
+        is_clicked = None
         try:
             self.logger.info('Start: started clicking on the cart icon method')
             self._cart_page.click_cart_icon()
-            is_added = True
+            is_clicked = True
         except WebDriverException as exp:
             self.logger.error(exp.msg)
-            is_added = False
+            is_clicked = False
             raise
         finally:
             self.logger.info('End: click on the cart icon method')
-            return is_added
+            return is_clicked
 
     def click_checkout_button(self):
         """
@@ -46,18 +46,18 @@ class Cart:
         :param:
         :return: True/False
         """
-        is_added = None
+        is_clicked = None
         try:
             self.logger.info('Start: started clicking on the checkout method')
             self._cart_page.click_checkout_button()
-            is_added = True
+            is_clicked = True
         except WebDriverException as exp:
             self.logger.error(exp.msg)
-            is_added = False
+            is_clicked = False
             raise
         finally:
             self.logger.info('End: click on the checkout method')
-            return is_added
+            return is_clicked
 
     def set_first_name(self, first_name):
         """
@@ -115,3 +115,22 @@ class Cart:
         finally:
             self.logger.info('End: setting zip method')
             return is_added
+
+    def click_continue_button(self):
+        """
+        Returning click on the continue button status
+        :param:
+        :return: True/False
+        """
+        is_clicked = None
+        try:
+            self.logger.info('Start: started clicking on the continue method')
+            self._cart_page.click_continue_button()
+            is_clicked = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_clicked = False
+            raise
+        finally:
+            self.logger.info('End: click on the continue button method')
+            return is_clicked

@@ -25,7 +25,7 @@ Verify navigation to cart
 Verify Click Checkout Button
     [Documentation]     Verifying clicking checkout button.
     ${STATUS} =     click checkout button
-    should be true    ${STATUS}     Unable to click cart icon
+    should be true    ${STATUS}     Unable to click checkout buttob
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 Verify Set First Name
@@ -49,4 +49,8 @@ Verify Set ZIP
     should be true    ${STATUS}
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
-
+Verify Click Continue Button
+    [Documentation]     Verifying clicking continue button.
+    ${STATUS} =     click continue button
+    should be true    ${STATUS}     Unable to click continue
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
