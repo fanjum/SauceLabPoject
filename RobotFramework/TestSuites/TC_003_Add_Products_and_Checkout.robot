@@ -28,8 +28,9 @@ Validate Cart items
 Validate Checkout
     [Documentation]    Checkout with the added products in cart
     Verify Click Checkout Button
-#    Verify Set User Name        ${VALID USERNAME}
-#    Verify Set Password         ${VALID PASSWORD}
-#    Verify Click Login Button
+    Verify Set First Name        ${FIRST NAME}
+    Verify Set Last Name         ${LAST NAME}
+    Verify Set ZIP               ${ZIP}
+#    Verify Click Continue Button
 
 

@@ -58,3 +58,60 @@ class Cart:
         finally:
             self.logger.info('End: click on the checkout method')
             return is_added
+
+    def set_first_name(self, first_name):
+        """
+        Returning setting first name status
+        :param:
+        :return: True/False
+        """
+        is_added = None
+        try:
+            self.logger.info('Start: started setting first name method')
+            self._cart_page.set_first_name(first_name)
+            is_added = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_added = False
+            raise
+        finally:
+            self.logger.info('End: setting first name method')
+            return is_added
+
+    def set_last_name(self, last_name):
+        """
+        Returning setting last name status
+        :param:
+        :return: True/False
+        """
+        is_added = None
+        try:
+            self.logger.info('Start: started setting last name method')
+            self._cart_page.set_last_name(last_name)
+            is_added = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_added = False
+            raise
+        finally:
+            self.logger.info('End: setting last name method')
+            return is_added
+
+    def set_zip(self, zip):
+        """
+        Returning setting zip status
+        :param:
+        :return: True/False
+        """
+        is_added = None
+        try:
+            self.logger.info('Start: started setting zip method')
+            self._cart_page.set_zip(zip)
+            is_added = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_added = False
+            raise
+        finally:
+            self.logger.info('End: setting zip method')
+            return is_added

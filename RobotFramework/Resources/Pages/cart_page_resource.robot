@@ -28,6 +28,25 @@ Verify Click Checkout Button
     should be true    ${STATUS}     Unable to click cart icon
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
+Verify Set First Name
+    [Arguments]    ${FIRST NAME}
+    [Documentation]     Set first name into first name input field. Take first name as parameter.
+    ${STATUS} =     set first name       ${FIRST NAME}
+    should be true    ${STATUS}
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
+Verify Set Last Name
+    [Arguments]    ${LAST NAME}
+    [Documentation]     Set last name into last name input field. Take last name as parameter.
+    ${STATUS} =     set last name       ${LAST NAME}
+    should be true    ${STATUS}
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
+
+Verify Set ZIP
+    [Arguments]    ${ZIP}
+    [Documentation]     Set zip into zip/postal code input field. Take zip as parameter.
+    ${STATUS} =     set zip       ${ZIP}
+    should be true    ${STATUS}
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 
