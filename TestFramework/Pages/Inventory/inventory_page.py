@@ -74,25 +74,6 @@ class InventoryPage(BasePage):
             self.click(self.product_remove_button_locator,
                        'Product remove button locator not found before specified time out')
 
-    # def sort(self):
-    #     """
-    #     Implementing sort by name functionality
-    #     :return:
-    #     """
-    #     # Click on the Name A to Z from dropdown
-    #     self.click(self.sort_name_az_locator, 'Sort Name A to Z locator not found before specified time out')
-    #
-    #     # Retrieve the list of product names
-    #     product_name_elements = self.find_elements(self.products_locator)
-    #     product_names = [element.text for element in product_name_elements]
-    #
-    #     # Create a sorted copy of the product names list
-    #     sorted_names = sorted(product_names)
-    #
-    #     # Compare the original list with the sorted list
-    #     is_sorted = product_names == sorted_names
-    #     return is_sorted
-
     def sort(self, sort_criteria):
         """
         Implementing generic sorting functionality based on the specified criteria
