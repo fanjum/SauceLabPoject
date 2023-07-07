@@ -22,14 +22,6 @@ Remove the product to cart
     [Documentation]    Removing the added product from cart
     Verify removing a product to cart        ${PRODUCT NAME}      ${false}
 
-#Click on a product then add to cart
-#    [Documentation]    Clicking on a product then adding the product to cart
-#    Verify adding a product to cart        ${PRODUCT NAME}      ${true}
-#
-#Remove the product from the product page
-#    [Documentation]    Removing the added product from cart from the product page
-#    Verify removing a product to cart        ${PRODUCT NAME}      ${true}
-
 Sort products by Name A to Z
     [Documentation]  Sorting products by Name A to Z
     Verify sorting products        Name A to Z
@@ -46,6 +38,10 @@ Sort products by Price High to Low
     [Documentation]  Sorting products by High to Low
     Verify sorting products        Price High to Low
 
-#Add Products to Cart
-#    [Documentation]    Adding all available products to cart
-#    Verify adding all products to cart
+Click on a product then add to cart
+    [Documentation]    Clicking on a product then adding the product to cart
+    Verify adding a product to cart        ${PRODUCT NAME}      ${true}
+
+Remove the product from the product page
+    [Documentation]    Removing the added product from cart from the product page
+    Verify removing a product to cart        ${PRODUCT NAME}      ${true}
