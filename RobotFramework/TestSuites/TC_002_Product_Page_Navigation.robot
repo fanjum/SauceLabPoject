@@ -14,13 +14,13 @@ Validate Login
     Verify Set Password         ${VALID PASSWORD}
     Verify Click Login Button
 
-#Add Products to Cart
-#    [Documentation]    Adding available products to cart
-#    Verify adding a product to cart        ${PRODUCT NAME}      ${false}
-#
-#Remove the product to cart
-#    [Documentation]    Removing the added product from cart
-#    Verify removing a product to cart        ${PRODUCT NAME}      ${false}
+Add Products to Cart
+    [Documentation]    Adding available products to cart
+    Verify adding a product to cart        ${PRODUCT NAME}      ${false}
+
+Remove the product to cart
+    [Documentation]    Removing the added product from cart
+    Verify removing a product to cart        ${PRODUCT NAME}      ${false}
 
 #Click on a product then add to cart
 #    [Documentation]    Clicking on a product then adding the product to cart
@@ -45,3 +45,7 @@ Sort products by Price Low to High
 Sort products by Price High to Low
     [Documentation]  Sorting products by High to Low
     Verify sorting products        Price High to Low
+
+#Add Products to Cart
+#    [Documentation]    Adding all available products to cart
+#    Verify adding all products to cart

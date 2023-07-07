@@ -30,8 +30,11 @@ Verify sorting products
     should be true    ${STATUS}     Unable to sort products
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
-
-
+Verify adding all products to cart
+    [Documentation]  Add all available products to cart
+    ${STATUS} =     add all products to cart
+    should be true    ${STATUS}     Unable to add all products
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 
 

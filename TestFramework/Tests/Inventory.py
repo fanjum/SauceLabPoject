@@ -76,3 +76,22 @@ class Inventory:
         finally:
             self.logger.info('End: sorting method')
             return is_sorted
+
+    def add_all_products_to_cart(self):
+        """
+        Returning add all products to cart status
+        :param product_name:
+        :return: True/False
+        """
+        is_added = None
+        try:
+            self.logger.info('Start: started add all products to cart method')
+            self._inventory_page.add_all_products_to_cart()
+            is_added = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_added = False
+            raise
+        finally:
+            self.logger.info('End: add all products to cart method')
+            return is_added

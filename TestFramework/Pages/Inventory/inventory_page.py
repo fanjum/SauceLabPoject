@@ -32,13 +32,16 @@ class InventoryPage(BasePage):
     def add_a_product_to_cart(self, product_name, product_page):
         """
         Implementing add a product to cart functionality
-        :param product_name:
+        :param product_name, boolen product_page:
         :return:
         """
+        # Temp variable for storing and updating varying locators.
+        temp_product_item_locator = self.product_item_locator
+        temp_product_add_button_locator = self.product_add_button_locator
         if product_page:
             # Update the product_item_locator with the product_name
             self.product_item_locator = (
-            self.product_item_locator[0], self.product_item_locator[1].format(product_name))
+                self.product_item_locator[0], self.product_item_locator[1].format(product_name))
 
             # Click on the product using the updated locator.
             self.click(self.product_item_locator, 'Product item locator not found before specified time out')
@@ -48,17 +51,28 @@ class InventoryPage(BasePage):
                        'Product add button locator not found before specified time out')
         else:
             # Update the product_add_button_locator with the product_name
-            self.product_add_button_locator = (
-            self.product_add_button_locator[0], self.product_add_button_locator[1].format(product_name))
+            temp_product_add_button_locator = (
+                temp_product_add_button_locator[0], temp_product_add_button_locator[1].format(product_name))
 
             # Click on the button using the updated locator
-            self.click(self.product_add_button_locator,
+            self.click(temp_product_add_button_locator,
                        'Product add button locator not found before specified time out')
+
+    def add_all_products_to_cart(self):
+        """
+        Implementing set password functionality
+        :return:
+        """
+        product_names = self.find_elements(self.products_name_locator)
+        product_values = [element.text for element in product_names]
+
+        for product_name in product_values:
+            self.add_a_product_to_cart(product_name, False)
 
     def remove_a_product_to_cart(self, product_name, product_page):
         """
         Implementing remove the product from cart functionality
-        :param product_name:
+        :param product_name, boolean product_page:
         :return:
         """
         if product_page:
@@ -68,7 +82,7 @@ class InventoryPage(BasePage):
         else:
             # Update the product_remove_button_locator with the product_name
             self.product_remove_button_locator = (
-            self.product_remove_button_locator[0], self.product_remove_button_locator[1].format(product_name))
+                self.product_remove_button_locator[0], self.product_remove_button_locator[1].format(product_name))
 
             # Click on the button using the updated locator
             self.click(self.product_remove_button_locator,
@@ -77,8 +91,8 @@ class InventoryPage(BasePage):
     def sort(self, sort_criteria):
         """
         Implementing generic sorting functionality based on the specified criteria
-        :param sort_criteria: The sorting criteria to apply
-        :return: Boolean indicating whether the list is sorted correctly
+        :param sort_criteria
+        :return: is_sorted
         """
         sort_locator = None
 

@@ -21,5 +21,5 @@ if __name__ == "__main__":
     # login_page.set_password("secret_sauce")
     #
     # login_page.click_login_button()
-    #robot.run("D:\Robot Automation\Test Projects\SauceLabPoject\RobotFramework\TestSuites\TC_001_Log_in.robot")
-    # robot.run("D:\Robot Automation\Test Projects\SauceLabPoject\RobotFramework\TestSuites\TC_002_Add_Products_and_Checkout.robot")
+    # robot.run("D:\Robot Automation\Test Projects\SauceLabPoject\RobotFramework\TestSuites\TC_001_Log_in.robot")
+    # robot.run("D:\Robot Automation\Test Projects\SauceLabPoject\RobotFramework\TestSuites\TC_002_Product_Page_Navigation.robot")
