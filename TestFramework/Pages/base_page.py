@@ -112,3 +112,11 @@ class BasePage:
         :return:
         """
         return Browser.find_elements(elements_locator)
+
+    def find_element(self, elements_locator):
+        """
+        Implementing finding an based on the provided locator functionality.
+        :param elements_locator:
+        :return:
+        """
+        return Browser.find_element(elements_locator)

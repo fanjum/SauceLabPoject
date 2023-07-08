@@ -11,6 +11,7 @@ class CartPage(BasePage):
     """
     # # Start: Cart page locators
     cart_icon_locator = (By.XPATH, "//span[@class='shopping_cart_badge']")
+    item_name_locator = (By.XPATH, "//div[@class='inventory_item_name']")
     checkout_button_locator = (By.ID, "checkout")
     first_name_locator = (By.ID, "first-name")
     last_name_locator = (By.ID, "last-name")
@@ -65,16 +66,38 @@ class CartPage(BasePage):
 
     def click_continue_button(self):
         """
-        Implementing clicking on the checkout button functionality
+        Implementing clicking on the continue button functionality
         :param
         :return:
         """
-        self.click(self.continue_button_locator, 'Checkout button locator not found before specified time out')
+        self.click(self.continue_button_locator, 'Continue button locator not found before specified time out')
 
     def click_finish_button(self):
         """
-        Implementing clicking on the checkout button functionality
+        Implementing clicking on the finish button functionality
         :param
         :return:
         """
-        self.click(self.finish_button_locator, 'Checkout button locator not found before specified time out')
+        self.click(self.finish_button_locator, 'Finish button locator not found before specified time out')
+
+    def verify_selected_items_count(self):
+        """
+        Implementing verify selected items count functionality
+        :param
+        :return:
+        """
+        # Retrieve the cart icon element
+        items_no_element = self.find_element(self.cart_icon_locator)
+
+        # Extract the displayed count from the cart icon element and convert it to an integer
+        items_no = int(items_no_element.text)
+
+        # Get the list of remove buttons and calculate the count
+        element_elements = self.find_elements(self.item_name_locator)
+        element_count = len(element_elements)
+
+        # Compare the counts of selected items and displayed items in the cart
+        is_correct = items_no == element_count
+
+        # Return the result indicating whether the counts match or not
+        return is_correct

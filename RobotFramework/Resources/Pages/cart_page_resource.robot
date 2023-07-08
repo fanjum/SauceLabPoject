@@ -16,11 +16,11 @@ Verify navigation to cart
     should be true    ${STATUS}     Unable to click cart icon
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
-#Verify the number of item selected
-#    [Documentation]     Verifying the number of items selected in the cart at top right corner.
-#    ${STATUS} =     add a product to cart       ${PRODUCT}      ${PAGE}
-#    should be true    ${STATUS}     Unable to add product to cart
-#    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
+Verify the number of item selected
+    [Documentation]     Verifying the number of items selected in the cart at top right corner with the number of items in the cart list.
+    ${STATUS} =     verify selected items count
+    should be true    ${STATUS}     Unable to verify number of products
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
 
 Verify Click Checkout Button
     [Documentation]     Verifying clicking checkout button.

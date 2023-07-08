@@ -153,3 +153,22 @@ class Cart:
         finally:
             self.logger.info('End: click on the finish button method')
             return is_clicked
+
+    def verify_selected_items_count(self):
+        """
+        Returning verify selected items count status
+        :param:
+        :return: True/False
+        """
+        is_same = None
+        try:
+            self.logger.info('Start: started verify selected items count method')
+            self._cart_page.verify_selected_items_count()
+            is_same = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_same = False
+            raise
+        finally:
+            self.logger.info('End: verify selected items count method')
+            return is_same

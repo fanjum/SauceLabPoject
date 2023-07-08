@@ -22,16 +22,18 @@ Add Products to Cart
 Validate Cart items
     [Documentation]    Navigation to the cart and verifying the items selected
     Verify navigation to cart
-#    Verify the number of item selected
-#    Verify the items selected with cart list
+    Verify the number of item selected
 
 Validate Checkout
     [Documentation]    Checkout with the added products in cart
     Verify Click Checkout Button
+
+Validate Checkout:Your Information
     Verify Set First Name        ${FIRST NAME}
     Verify Set Last Name         ${LAST NAME}
     Verify Set ZIP               ${ZIP}
     Verify Click Continue Button
+
+Validate Checkout:Overview
+    [Documentation]    Checkout with the added products in cart
     Verify Click Finish Button
-
-

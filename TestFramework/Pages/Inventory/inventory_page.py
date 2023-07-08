@@ -126,10 +126,3 @@ class InventoryPage(BasePage):
         # Check if the element values are sorted correctly
         is_sorted = element_values == sorted_values
         return is_sorted
-
-    # def click_login_button(self):
-    #     """
-    #     Implementing set password functionality
-    #     :return:
-    #     """
-    #     self.click(self.login_button_locator, 'login button locator not found before specified time out')

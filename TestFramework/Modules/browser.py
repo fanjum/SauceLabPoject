@@ -176,3 +176,10 @@ def find_elements(element):
     """
     global _driver
     return _driver.find_elements(*element)
+
+def find_element(element):
+    """Implementating finding element list by locator
+    :return element list
+    """
+    global _driver
+    return _driver.find_element(*element)
