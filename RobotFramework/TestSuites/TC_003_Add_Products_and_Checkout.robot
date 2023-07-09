@@ -8,6 +8,8 @@ Resource        ../Resources/ExternalTestDataSource/add_product_test_data_source
 Resource        ../Resources/Pages/cart_page_resource.robot
 
 Suite Setup         Validate Setup
+Suite Teardown      Validate Teardown
+
 *** Test Cases ***
 Validate Login
     [Documentation]  Login Functionality with valid set of credentials
