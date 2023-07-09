@@ -80,3 +80,39 @@ class Login:
         finally:
             self.logger.info('End: click saucelab login button method')
             return is_clicked
+
+    def click_menu_button(self):
+        """
+        Returning click menu button status
+        :return: True/False
+        """
+        is_clicked = None
+        try:
+            self.logger.info('Start: click menu button method')
+            self._login_page.click_menu_button()
+            is_clicked = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_clicked = False
+            raise
+        finally:
+            self.logger.info('End: click menu button method')
+            return is_clicked
+
+    def click_logout_button(self):
+        """
+        Returning click logout button status
+        :return: True/False
+        """
+        is_clicked = None
+        try:
+            self.logger.info('Start: click logout button method')
+            self._login_page.click_logout_button()
+            is_clicked = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_clicked = False
+            raise
+        finally:
+            self.logger.info('End: click logout button method')
+            return is_clicked

@@ -14,6 +14,10 @@ Validate Successful Login
     Verify Set Password         ${VALID PASSWORD}
     Verify Click Login Button
 
+Validate Successful Logout
+    [Documentation]  Logout Functionality
+    Verify Menu Navigation
+    Verify Successful Logout
 
 Validate Unsuccessful Login
     [Documentation]  Login Functionality with invalid set of credentials

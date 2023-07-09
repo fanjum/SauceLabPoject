@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Set of tests to Add Products and Checkout
+Documentation    Set of tests to Click on a product and checkout.
 
 Resource        ../Resources/common_resource.robot
 Resource        ../Resources/Pages/login_page_resource.robot
