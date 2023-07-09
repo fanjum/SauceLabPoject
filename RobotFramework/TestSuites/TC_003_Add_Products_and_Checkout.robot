@@ -37,3 +37,4 @@ Validate Checkout:Your Information
 Validate Checkout:Overview
     [Documentation]    Checkout with the added products in cart
     Verify Click Finish Button
+    Verify Confirmation Message     ${SUCCESS MESSAGE}

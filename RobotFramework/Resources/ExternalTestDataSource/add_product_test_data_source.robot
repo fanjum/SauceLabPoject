@@ -6,3 +6,4 @@ ${PRODUCT NAME}     Sauce Labs Fleece Jacket
 ${FIRST NAME}       Tom
 ${LAST NAME}        Cruise
 ${ZIP}              1209
+${SUCCESS MESSAGE}  Thank you

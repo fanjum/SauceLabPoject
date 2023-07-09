@@ -18,6 +18,7 @@ class CartPage(BasePage):
     zip_locator = (By.ID, "postal-code")
     continue_button_locator = (By.ID, "continue")
     finish_button_locator = (By.ID, "finish")
+    confirmation_message_locator = (By.XPATH, "//h2[@class = 'complete-header']")
 
     # End: Cart page locators
 
@@ -101,3 +102,12 @@ class CartPage(BasePage):
 
         # Return the result indicating whether the counts match or not
         return is_correct
+
+    def validate_confirmation_message(self, expected_text):
+        """
+        Implementing verify confirmation message functionality
+        :param expected_text
+        :return:
+        """
+        confirmation_message_text = self.find_element(self.confirmation_message_locator).text
+        assert expected_text in confirmation_message_text, "Confirmation message does not contain the provided test"

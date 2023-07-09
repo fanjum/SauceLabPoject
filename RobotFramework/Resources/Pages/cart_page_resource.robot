@@ -60,3 +60,10 @@ Verify Click Finish Button
     ${STATUS} =     click finish button
     should be true    ${STATUS}     Unable to click finish button
     [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot
+
+Verify Confirmation Message
+    [Arguments]    ${EXPECTED TEXT}
+    [Documentation]     Verifying confirmation message.
+    ${STATUS} =     validate confirmation message     ${EXPECTED TEXT}
+    should be true    ${STATUS}     Unable to verify confirmation message
+    [Teardown]      run keyword if      '${STATUS}'=='False'        Log Screenshot

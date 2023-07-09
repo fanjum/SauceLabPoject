@@ -172,3 +172,22 @@ class Cart:
         finally:
             self.logger.info('End: verify selected items count method')
             return is_same
+
+    def validate_confirmation_message(self, expected_text):
+        """
+        Returning validate confirmation message status
+        :param:
+        :return: True/False
+        """
+        is_ok = None
+        try:
+            self.logger.info('Start: started verify confirmation message method')
+            self._cart_page.validate_confirmation_message(expected_text)
+            is_ok = True
+        except WebDriverException as exp:
+            self.logger.error(exp.msg)
+            is_ok = False
+            raise
+        finally:
+            self.logger.info('End: verify confirmation message method')
+            return is_ok
