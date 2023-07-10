@@ -28,3 +28,15 @@ Verify Click Login Button
     ${STATUS} =     click login button
     should be true      ${STATUS}
     [Teardown]      run keyword if    '${STATUS}'=='False'          Log Screenshot
+
+Verify Menu Navigation
+    [Documentation]     click on the menu hambugher button.
+    ${STATUS} =     click menu button
+    should be true      ${STATUS}
+    [Teardown]      run keyword if    '${STATUS}'=='False'          Log Screenshot
+
+Verify Successful Logout
+    [Documentation]     click on the logout button.
+    ${STATUS} =     click logout button
+    should be true      ${STATUS}
+    [Teardown]      run keyword if    '${STATUS}'=='False'          Log Screenshot

@@ -14,6 +14,10 @@ Validate Successful Login
     Verify Set Password         ${VALID PASSWORD}
     Verify Click Login Button
 
+Validate Successful Logout
+    [Documentation]  Logout Functionality
+    Verify Menu Navigation
+    Verify Successful Logout
 
 Validate Unsuccessful Login
     [Documentation]  Login Functionality with invalid set of credentials
@@ -21,9 +25,6 @@ Validate Unsuccessful Login
     Verify Set User Name        ${VALID USERNAME}
     Verify Set Password         ${INVALID PASSWORD}
     Verify Click Login Button
-
-
-
 
 Validate Lockedout User Login
     [Documentation]  Login Functionality with valid set of credentials but user is lockedout

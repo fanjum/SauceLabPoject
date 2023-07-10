@@ -163,8 +163,7 @@ class Cart:
         is_same = None
         try:
             self.logger.info('Start: started verify selected items count method')
-            self._cart_page.verify_selected_items_count()
-            is_same = True
+            is_same = self._cart_page.verify_selected_items_count()
         except WebDriverException as exp:
             self.logger.error(exp.msg)
             is_same = False

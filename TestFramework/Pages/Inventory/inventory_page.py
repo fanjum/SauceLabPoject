@@ -118,10 +118,14 @@ class InventoryPage(BasePage):
         element_values = [element.text for element in element_elements]
 
         # Sort the element values based on the sorting criteria
-        if sort_criteria in ["Name A to Z", "Price Low to High"]:
+        if sort_criteria in ["Name A to Z"]:
             sorted_values = sorted(element_values)
-        elif sort_criteria in ["Name Z to A", "Price High to Low"]:
+        elif sort_criteria in ["Name Z to A"]:
             sorted_values = sorted(element_values, reverse=True)
+        elif sort_criteria in ["Price Low to High"]:
+            sorted_values = sorted(element_values, key=lambda x: float(x.replace('$', '')))
+        elif sort_criteria in ["Price High to Low"]:
+            sorted_values = sorted(element_values, key=lambda x: float(x.replace('$', '')), reverse=True)
 
         # Check if the element values are sorted correctly
         is_sorted = element_values == sorted_values

@@ -15,6 +15,8 @@ class LoginPage(BasePage):
     user_name_input_field_locator = (By.ID, "user-name")
     password_input_field_locator = (By.ID, "password")
     login_button_locator = (By.ID, "login-button")
+    menu_button_locator = (By.ID, "react-burger-menu-btn")
+    logout_button_locator = (By.ID, "logout_sidebar_link")
 
     # End: Login page locators
 
@@ -38,7 +40,21 @@ class LoginPage(BasePage):
 
     def click_login_button(self):
         """
-        Implementing set password functionality
+        Implementing click login functionality.
         :return:
         """
         self.click(self.login_button_locator, 'login button locator not found before specified time out')
+
+    def click_menu_button(self):
+        """
+        Implementing click menu functionality.
+        :return:
+        """
+        self.click(self.menu_button_locator, 'menu button locator not found before specified time out')
+
+    def click_logout_button(self):
+        """
+        Implementing click menu functionality.
+        :return:
+        """
+        self.click(self.logout_button_locator, 'logout button locator not found before specified time out')
