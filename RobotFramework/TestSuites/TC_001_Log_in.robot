@@ -26,9 +26,6 @@ Validate Unsuccessful Login
     Verify Set Password         ${INVALID PASSWORD}
     Verify Click Login Button
 
-
-
-
 Validate Lockedout User Login
     [Documentation]  Login Functionality with valid set of credentials but user is lockedout
     Validate Setup

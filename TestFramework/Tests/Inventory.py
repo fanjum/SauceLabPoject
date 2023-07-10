@@ -66,8 +66,7 @@ class Inventory:
         is_sorted = None
         try:
             self.logger.info('Start: started sorting method')
-            self._inventory_page.sort(sort_criteria)
-            is_sorted = True
+            is_sorted = self._inventory_page.sort(sort_criteria)
         except WebDriverException as exp:
             self.logger.error(exp.msg)
             is_sorted = False
