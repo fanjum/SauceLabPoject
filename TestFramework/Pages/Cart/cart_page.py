@@ -100,9 +100,6 @@ class CartPage(BasePage):
         # Compare the counts of selected items and displayed items in the cart
         is_correct = items_no == element_count
 
-        # Return the result indicating whether the counts match or not
-        return is_correct
-
     def validate_confirmation_message(self, expected_text):
         """
         Implementing verify confirmation message functionality

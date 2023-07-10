@@ -125,4 +125,3 @@ class InventoryPage(BasePage):
 
         # Check if the element values are sorted correctly
         is_sorted = element_values == sorted_values
-        return is_sorted
